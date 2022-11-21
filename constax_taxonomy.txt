@@ -1,0 +1,2446 @@
+OTU_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species
+OTU_1	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	
+OTU_2	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Corynesporascaceae_1	Corynespora_1	Corynespora cassiicola 
+OTU_3	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Bionectriaceae_1	Clonostachys_1	
+OTU_4	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_5	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Setophoma_1	
+OTU_6	Fungi_1						
+OTU_7	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	
+OTU_8	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	Fusarium waltergamsii 
+OTU_9	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1		
+OTU_10	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1			
+OTU_11	Fungi_1	Ascomycota_1	Sordariomycetes_1	Glomerellales_1	Plectosphaerellaceae_1	Plectosphaerella_1	
+OTU_12	Fungi_1	Ascomycota_1	Dothideomycetes_1	Botryosphaeriales_1	Botryosphaeriaceae_1	Macrophomina_1	
+OTU_13	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_14	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Cladosporiaceae_1	Cladosporium_1	
+OTU_15	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales_1	Chaetosphaeriaceae_1	Dictyochaeta_1	Dictyochaeta siamensis 
+OTU_16	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Alternaria_1	
+OTU_17	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Clavicipitaceae_1	Metacordyceps_1	Metacordyceps chlamydosporia 
+OTU_18	Fungi_1	Ascomycota_1					
+OTU_19	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae	Paraphoma_1	Paraphoma radicina 
+OTU_20	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_21	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Didymella_1	
+OTU_22	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Arnium	Arnium sp  
+OTU_23	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1			
+OTU_24	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Trechisporales_1	Hydnodontaceae_1		
+OTU_25	Fungi_1	Ascomycota_1	Sordariomycetes_1	Microascales_1	Ceratocystidaceae_1		
+OTU_26	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	Exophiala equina 
+OTU_27	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Striaticonidium_1	Striaticonidium brachysporum 
+OTU_28	Fungi_1						
+OTU_29	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_30	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Vibrisseaceae_1	Phialocephala_1	Phialocephala bamuru 
+OTU_31	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_32	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1	Articulospora_1	
+OTU_33	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_34	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	
+OTU_35	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Paramyrothecium	
+OTU_36	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_37	Fungi_1						
+OTU_38	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Conlarium_1		
+OTU_39	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Microdochiaceae_1	Microdochium_1	
+OTU_40	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	Trichoderma piluliferum 
+OTU_41	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus irregularis 
+OTU_42	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1			
+OTU_43	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_44	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1		
+OTU_45	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Cystofilobasidiales_1	Mrakiaceae_1	Mrakia_1	Mrakia frigida 
+OTU_46	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_47	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_48	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Epicoccum_1	Epicoccum dendrobii 
+OTU_49	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_50	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_51	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_52	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_53	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	Trichoderma hamatum 
+OTU_54	Fungi_1						
+OTU_55	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Sarocladium_1	Sarocladium bactrocephalum 	
+OTU_56	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Condenascus	Condenascus tortuosus 
+OTU_57	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Monocillium_1	Monocillium mucidum 
+OTU_58	Fungi_1	Ascomycota_1	Dothideomycetes_1	Venturiales_1	Sympoventuriaceae_1	Veronaeopsis_1	Veronaeopsis simplex 
+OTU_59	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraphoma_1	Paraphoma pye 
+OTU_60	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_61	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Podospora_1	Podospora sp  
+OTU_62	Fungi_1	Ascomycota_1					
+OTU_63	Fungi	Ascomycota					
+OTU_64	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_65	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales	Hypocreales_fam_incertae_sedis_1	Acremonium_1	Acremonium sp  
+OTU_66	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1		
+OTU_67	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1		
+OTU_68	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Conlarium_1		
+OTU_69							
+OTU_70	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Podospora_1		
+OTU_71	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Hyaloscyphaceae_1	Lachnum	
+OTU_72	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella exigua 
+OTU_73	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Nectria_1	Nectria sp  
+OTU_74	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Phallales_1	Phallaceae_1	Phallus_1	Phallus rugulosus 
+OTU_75	Fungi_1	Ascomycota_1	Sordariomycetes_1	Myrmecridiales_1	Myrmecridiaceae_1	Myrmecridium_1	
+OTU_76	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus	Rhizophagus irregularis 
+OTU_77	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium sp  
+OTU_78	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_79	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1	Rhizoctonia	Rhizoctonia sp  
+OTU_80	Fungi_1	Basidiomycota_1	Tremellomycetes_1				
+OTU_81	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_82	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Trimorphomycetaceae_1	Saitozyma_1	
+OTU_83	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Albifimbria	
+OTU_84	Fungi_1	Ascomycota	Dothideomycetes_1	Pleosporales_1	Tetraplosphaeriaceae_1		
+OTU_85	Fungi_1	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora sp  
+OTU_86	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	
+OTU_87	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1		
+OTU_88	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_89	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_90	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_91	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Hyaloscyphaceae_1		
+OTU_92	Fungi_1	Ascomycota_1	Dothideomycetes_1				
+OTU_93	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium cryptum 
+OTU_94	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Bipolaris_1	
+OTU_95	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1		
+OTU_96	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus irregularis 
+OTU_97	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_98	Fungi_1	Glomeromycota_1					
+OTU_99	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Septoglomus_1	
+OTU_100	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraphoma_1	Paraphoma rhaphiolepidis 
+OTU_101	Viridiplantae_1	Anthophyta_1	Eudicotyledonae_1	Fabales_1	Fabaceae_1	Glycine_1	Glycine clandestina 
+OTU_102	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_103	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Conlarium_1	Conlarium aquaticum 	
+OTU_104	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1		
+OTU_105	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_106	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_107	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_108	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_109	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_110	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Cystobasidiales_1	Cystobasidiaceae_1	Occultifur_1	Occultifur sp  
+OTU_111	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Piskurozymaceae_1	Solicoccozyma_1	Solicoccozyma terrea 
+OTU_112	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1		
+OTU_113	Fungi						
+OTU_114	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Tremellodendropsidales_1			
+OTU_115	Fungi_1	Ascomycota_1					
+OTU_116	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Podospora_1	Podospora sp  
+OTU_117	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_118	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1			
+OTU_119	Fungi_1						
+OTU_120	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_121	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_122	Fungi_1						
+OTU_123	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	
+OTU_124	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	
+OTU_125							
+OTU_126	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Trichocomaceae_1	Talaromyces_1	
+OTU_127	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Mariannaea_1	Mariannaea punicea 
+OTU_128	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella gamsii 
+OTU_129	Fungi_1	Ascomycota_1	Sordariomycetes_1	Glomerellales_1	Glomerellaceae_1	Colletotrichum_1	Colletotrichum spaethianum 
+OTU_130	Fungi_1	Ascomycota_1	Leotiomycetes_1				
+OTU_131	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Teratosphaeriaceae_1	Devriesia_1	Devriesia sp  
+OTU_132	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_133	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Bionectriaceae_1	Clonostachys_1	Clonostachys miodochialis 
+OTU_134	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	
+OTU_135	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1			
+OTU_136	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1		
+OTU_137	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Clavicipitaceae_1		
+OTU_138	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_139	Fungi_1	Ascomycota					
+OTU_140	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Conlarium_1	Conlarium aquaticum 	
+OTU_141	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_142	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1		
+OTU_143	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Cosmospora	
+OTU_144	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymosphaeriaceae_1	Paraphaeosphaeria_1	
+OTU_145	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Tremellodendropsidales_1			
+OTU_146	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Trichomeriaceae		
+OTU_147	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	
+OTU_148	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_149	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Bionectriaceae_1	Paracylindrocarpon_1	Paracylindrocarpon aloicola 
+OTU_150	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_151	Fungi						
+OTU_152	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_153	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Neoascochyta_1	Neoascochyta desmazieri 
+OTU_154	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_155	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Diaporthaceae_1	Diaporthe_1	Diaporthe longicolla 
+OTU_156	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1		
+OTU_157	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Piskurozymaceae_1	Solicoccozyma_1	Solicoccozyma terricola 
+OTU_158	Fungi_1	Ascomycota_1	Sordariomycetes_1	Branch06_1			
+OTU_159	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium decumbens 
+OTU_160	Fungi_1	Ascomycota_1	Sordariomycetes_1	Branch06_1			
+OTU_161	Fungi_1						
+OTU_162	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusicolla_1	
+OTU_163	Fungi_1	Ascomycota_1	Sordariomycetes_1	Microascales_1			
+OTU_164	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Gigasporales_1	Gigasporaceae_1	Gigaspora_1	
+OTU_165	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Ophiosphaerella_1	Ophiosphaerella aquatica 
+OTU_166	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Melanommataceae_1	Herpotrichia	Herpotrichia juniperi 
+OTU_167	Fungi_1						
+OTU_168	Fungi_1	Ascomycota_1	Sordariomycetes_1	Magnaporthales_1	Magnaporthaceae_1	Mycoleptodiscus_1	Mycoleptodiscus terrestris 
+OTU_169	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Sarocladium_1		
+OTU_170	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Clavicipitaceae_1		
+OTU_171	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Tremellodendropsidales_1			
+OTU_172	Fungi_1	Ascomycota_1					
+OTU_173	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_174	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae_1		
+OTU_175	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Rhynchogastremataceae_1	Papiliotrema_1	
+OTU_176	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1	Acremonium_1	Acremonium curvulum 
+OTU_177	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusicolla_1	
+OTU_178	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	Exophiala sp  
+OTU_179	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_180	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_181	Fungi	Ascomycota					
+OTU_182	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1	Tetracladium_1	Tetracladium sp  
+OTU_183	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_184	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	Neosetophoma rosigena 
+OTU_185	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_186	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus	
+OTU_187	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1			
+OTU_188	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_189	Fungi_1	Ascomycota	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1		
+OTU_190	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_191	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_192	Fungi_1	Ascomycota_1	Sordariomycetes_1	Branch06_1			
+OTU_193	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1	Acremonium_1	
+OTU_194	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_195	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_196	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1		
+OTU_197	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Hannaella_1	Hannaella luteola 
+OTU_198	Fungi_1	Zoopagomycota_1					
+OTU_199	Fungi_1	Zoopagomycota_1					
+OTU_200	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_201	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_202	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales	Glomeraceae		
+OTU_203	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_204	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium simplicissimum 
+OTU_205	Fungi_1	Ascomycota_1	Sordariomycetes_1	Boliniales_1	Boliniales_fam_incertae_sedis_1		
+OTU_206	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Cladophialophora_1	
+OTU_207	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Teratosphaeriaceae_1	Devriesia_1	Devriesia americana 
+OTU_208	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	
+OTU_209	Fungi_1	Ascomycota_1	Sordariomycetes_1	Boliniales_1	Boliniales_fam_incertae_sedis_1		
+OTU_210	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_211	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	
+OTU_212	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Rhynchogastremataceae_1	Papiliotrema_1	
+OTU_213	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_214	Fungi_1	Ascomycota_1	Sordariomycetes_1	Myrmecridiales_1	Myrmecridiaceae_1	Myrmecridium_1	Myrmecridium schulzeri 
+OTU_215	Fungi_1						
+OTU_216	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Trimorphomycetaceae	Saitozyma	
+OTU_217	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lentitheciaceae_1	Keissleriella_1	Keissleriella poagena 
+OTU_218	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Chaetomium_1	
+OTU_219	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus clarus 
+OTU_220	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_221	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	Neosetophoma rosarum 
+OTU_222	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	Glomus macrocarpum 
+OTU_223	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_224	Fungi_1	Ascomycota					
+OTU_225	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_226	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Bionectriaceae_1		
+OTU_227	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus clarus 
+OTU_228	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Cladophialophora_1	
+OTU_229	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1			
+OTU_230	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1			
+OTU_231	Fungi_1						
+OTU_232	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1		
+OTU_233	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_234	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	
+OTU_235	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Monocillium_1	Monocillium griseo-ochraceum 
+OTU_236	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Humicola	Humicola nigrescens 
+OTU_237	Fungi						
+OTU_238	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Curvularia_1	
+OTU_239	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_240	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1			
+OTU_241	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	
+OTU_242	Fungi_1	Ascomycota_1	Sordariomycetes_1	Microascales_1			
+OTU_243	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1	Ceratobasidium	
+OTU_244	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Melanommataceae_1	Phragmocephala	
+OTU_245	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	Exophiala bonariae 
+OTU_246	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_247	Fungi_1	Rozellomycota_1					
+OTU_248	Fungi_1	Basidiomycota	Tremellomycetes_1				
+OTU_249	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_250	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus	Rhizophagus irregularis 
+OTU_251	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Cystobasidiales_1	Cystobasidiaceae_1	Occultifur_1	
+OTU_252	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Sclerotiniaceae_1	Botrytis_1	Botrytis cinerea 
+OTU_253	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Bionectriaceae_1	Clonostachys_1	Clonostachys phyllophila 
+OTU_254	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Dermateaceae		
+OTU_255	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1			
+OTU_256	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_257	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Bionectriaceae	Valsonectria_1	Valsonectria pulchella 
+OTU_258	Fungi_1	Ascomycota_1	Dothideomycetes_1	Venturiales_1	Sympoventuriaceae_1	Veronaeopsis_1	Veronaeopsis simplex 
+OTU_259	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Schizothecium_1	Schizothecium sp  
+OTU_260	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_261	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1		
+OTU_262	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Septoria_1	
+OTU_263	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	Exophiala salmonis 
+OTU_264	Fungi_1	Ascomycota_1	Sordariomycetes_1	Microascales_1			
+OTU_265	Fungi_1	Ascomycota					
+OTU_266	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_267	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Clavicipitaceae_1	Metarhizium_1	
+OTU_268	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	
+OTU_269	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Cystofilobasidiales_1	Mrakiaceae_1	Tausonia_1	Tausonia pullulans 
+OTU_270	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_271	Fungi_1	Rozellomycota_1					
+OTU_272	Fungi						
+OTU_273	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_274	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Microdochiaceae_1	Microdochium_1	Microdochium sp  
+OTU_275	Fungi_1						
+OTU_276	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_277	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Tremellodendropsidales_1			
+OTU_278	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Tremellodendropsidales_1			
+OTU_279	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_280	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Melanommataceae_1		
+OTU_281	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales_1	Chaetosphaeriaceae_1		
+OTU_282	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Cucurbitariaceae_1	Pyrenochaetopsis_1	Pyrenochaetopsis sp  
+OTU_283	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Cyphellophoraceae_1	Cyphellophora_1	Cyphellophora vermispora 
+OTU_284	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_285	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Vibrisseaceae_1	Phialocephala_1	Phialocephala humicola 
+OTU_286	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus clarus 
+OTU_287	Fungi_1	Rozellomycota_1					
+OTU_288	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1	Auriculariaceae	Auricularia	
+OTU_289	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales_1	Glomeraceae_1		
+OTU_290	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Melanommataceae_1		
+OTU_291	Fungi_1						
+OTU_292	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae	Paraphoma_1	
+OTU_293	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus brasilianum 
+OTU_294	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Cladorrhinum	
+OTU_295	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Achroiostachys_1	Achroiostachys betulicola 
+OTU_296	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Septoglomus_1	Septoglomus viscosum 
+OTU_297	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus	
+OTU_298	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella amoeboidea 
+OTU_299	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Alternaria_1	Alternaria rosae 
+OTU_300	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Trichocomaceae_1	Talaromyces_1	Talaromyces purpureogenus 
+OTU_301	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_302	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1	Waitea_1	Waitea circinata 
+OTU_303	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1		
+OTU_304	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Tetraplosphaeriaceae	Tetraplosphaeria	
+OTU_305	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1			
+OTU_306	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Trechisporales_1			
+OTU_307	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Hyaloscyphaceae_1	Lachnum_1	
+OTU_308	Fungi_1	Basidiomycota_1	Agaricostilbomycetes_1	Agaricostilbales_1	Chionosphaeraceae_1		
+OTU_309	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Chaetomium_1	
+OTU_310	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Cephalothecaceae_1	Phialemonium_1	Phialemonium globosum 
+OTU_311	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus	Glomus sp  
+OTU_312	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	
+OTU_313	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_314	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae	Monocillium	
+OTU_315	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae_1		
+OTU_316	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Pervetustaceae_1	Pervetustus_1	Pervetustus sp  
+OTU_317	Fungi_1	Ascomycota_1					
+OTU_318	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_319	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Melanommataceae		
+OTU_320	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1			
+OTU_321	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	
+OTU_322	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lophiostomataceae_1		
+OTU_323	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_324	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Septoriella	Septoriella phragmitis 
+OTU_325	Fungi						
+OTU_326	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Teratosphaeriaceae	Devriesia	
+OTU_327	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales_1	Chaetosphaeriaceae_1		
+OTU_328	Fungi_1	Ascomycota_1	Sordariomycetes_1	Branch06_1			
+OTU_329	Fungi_1	Ascomycota_1	Leotiomycetes	Helotiales	Vibrisseaceae	Phialocephala	Phialocephala humicola 
+OTU_330	Fungi	Glomeromycota	Glomeromycetes_1	Glomerales_1			
+OTU_331	Fungi_1	Glomeromycota_1					
+OTU_332	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1	Hymenoscyphus_1	Hymenoscyphus menthae 
+OTU_333	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_334	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Cystofilobasidiales_1	Mrakiella aquatica 		
+OTU_335	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus	
+OTU_336	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Onygenales_1			
+OTU_337	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus	
+OTU_338	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_339	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_340	Fungi_1	Ascomycota_1					
+OTU_341	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella	
+OTU_342	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae	Mortierella_1	
+OTU_343	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_344	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales_1	Chaetosphaeriaceae_1	Dinemasporium_1	
+OTU_345	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_346							
+OTU_347	Fungi_1						
+OTU_348	Fungi	Ascomycota_1	Dothideomycetes	Pleosporales_1			
+OTU_349	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Cladophialophora_1	Cladophialophora chaetospira 
+OTU_350	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_351	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_352	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_353	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella globalpina 
+OTU_354	Fungi_1	Glomeromycota_1					
+OTU_355	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Cladophialophora_1	
+OTU_356	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_357	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Phallales_1	Phallaceae_1	Aseroe_1	Aseroe sp  
+OTU_358	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_359	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium jensenii 
+OTU_360	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales_1			
+OTU_361	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales_1	Glomeraceae_1		
+OTU_362	Fungi	Glomeromycota	Glomeromycetes	Gigasporales			
+OTU_363	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Stagonosporopsis_1	
+OTU_364	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Conlarium_1	Conlarium sp  	
+OTU_365	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_366	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_367	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella tsukubaensis 
+OTU_368	Fungi_1	Ascomycota_1	Taphrinomycetes_1	Taphrinales_1	Taphrinaceae_1	Taphrina_1	Taphrina caerulescens 
+OTU_369	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_370	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Dactylonectria	
+OTU_371	Fungi_1	Ascomycota					
+OTU_372	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1		
+OTU_373	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus	
+OTU_374	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus clarus 
+OTU_375	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Neoascochyta_1	
+OTU_376	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1	Acaulospora_1	Acaulospora scrobiculata 
+OTU_377	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_378	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	
+OTU_379	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Sporobolomyces_1	Sporobolomyces roseus 
+OTU_380	Fungi_1	Ascomycota_1	Leotiomycetes_1	Thelebolales_1	Pseudeurotiaceae_1		
+OTU_381	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Hyaloscyphaceae	Cistella	Cistella sp  
+OTU_382	Fungi_1	Ascomycota_1	Leotiomycetes_1				
+OTU_383	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_384	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Hannaella_1	Hannaella oryzae 
+OTU_385	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae		
+OTU_386	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_387	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_388	Fungi	Glomeromycota	Glomeromycetes	Glomerales			
+OTU_389	Fungi_1						
+OTU_390	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Cystofilobasidiales_1	Cystofilobasidiaceae_1	Cystofilobasidium_1	Cystofilobasidium macerans 
+OTU_391	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_392	Fungi_1						
+OTU_393	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_394	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Cyphellophoraceae_1	Cyphellophora_1	
+OTU_395	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	Exophiala alcalophila 
+OTU_396	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Hannaella_1	Hannaella oryzae 
+OTU_397	Fungi						
+OTU_398	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Oehlia_1	Oehlia diaphana 
+OTU_399	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_400	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Emericellopsis_1	Emericellopsis minima 	
+OTU_401	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Gigasporales_1	Gigasporaceae_1	Gigaspora_1	
+OTU_402	Fungi_1	Ascomycota_1	Sordariomycetes_1	Glomerellales_1	Plectosphaerellaceae_1	Verticillium_1	Verticillium longisporum 
+OTU_403	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	
+OTU_404	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_405	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales	Glomeraceae		
+OTU_406	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Alternaria_1	Alternaria infectoria 
+OTU_407	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Zopfiella_1	Zopfiella sp  
+OTU_408	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_409	Fungi	Ascomycota					
+OTU_410	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	Trichoderma pararogersonii 
+OTU_411	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Chaetomium_1	
+OTU_412	Fungi_1	Basidiomycota_1	Agaricomycetes_1				
+OTU_413	Fungi_1	Ascomycota	Sordariomycetes	Hypocreales			
+OTU_414	Fungi_1						
+OTU_415	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_416	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_417	Fungi_1	Ascomycota_1					
+OTU_418	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_419	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Kamienskia_1	Kamienskia divaricata 
+OTU_420	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae	Paraglomus_1	Paraglomus sp  
+OTU_421	Fungi_1	Chytridiomycota_1	Chytridiomycetes_1	Chytridiales_1	Chytridiaceae_1		
+OTU_422	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Rhynchogastremataceae_1	Papiliotrema_1	Papiliotrema laurentii 
+OTU_423	Fungi_1	Glomeromycota_1					
+OTU_424	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae	Mortierella	
+OTU_425	Fungi_1	Olpidiomycota_1	Olpidiomycetes_1	Olpidiales_1	Olpidiaceae_1	Olpidium_1	
+OTU_426	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Ophiosphaerella_1	Ophiosphaerella sp  
+OTU_427	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1		
+OTU_428	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	
+OTU_429	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1		
+OTU_430	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_431	Fungi						
+OTU_432	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_433	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Gnomoniaceae_1	Ophiognomonia_1	
+OTU_434	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_435	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Dioszegia_1	Dioszegia hungarica 
+OTU_436	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Kamienskia_1	Kamienskia divaricata 
+OTU_437	Fungi	Ascomycota	Dothideomycetes				
+OTU_438	Fungi_1	Basidiomycota_1	Tremellomycetes_1				
+OTU_439	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Piniphoma_1	Piniphoma wesendahlina 
+OTU_440	Fungi_1						
+OTU_441	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_442	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	
+OTU_443	Fungi_1	Ascomycota_1	Dothideomycetes_1	Tubeufiales_1	Tubeufiaceae_1		
+OTU_444	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Onygenales_1			
+OTU_445	Fungi_1	Ascomycota_1	Leotiomycetes	Helotiales			
+OTU_446	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_447	Fungi						
+OTU_448	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_449	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Chaetomium_1	
+OTU_450	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus sp  
+OTU_451	Fungi_1						
+OTU_452	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Rhodotorula_1	
+OTU_453	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1		
+OTU_454	Fungi_1	Glomeromycota_1					
+OTU_455	Fungi_1	Ascomycota					
+OTU_456	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	Claroideoglomus etunicatum 
+OTU_457	Fungi_1	Glomeromycota_1					
+OTU_458	Fungi_1	Ascomycota_1	Leotiomycetes	Helotiales_1			
+OTU_459	Fungi_1	Rozellomycota_1					
+OTU_460	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	
+OTU_461	Fungi	Ascomycota					
+OTU_462	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_463	Fungi_1	Ascomycota_1	Herpotrichiellaceae_1				
+OTU_464	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Filobasidiaceae_1	Filobasidium_1	
+OTU_465	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1		
+OTU_466	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1	Hymenoscyphus_1	
+OTU_467	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_468	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Wojnowiciella_1	
+OTU_469	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Corticiales_1	Corticiaceae_1	Laetisaria_1	Laetisaria arvalis 
+OTU_470	Fungi	Ascomycota	Sordariomycetes	Sordariales_1			
+OTU_471	Fungi_1	Glomeromycota_1					
+OTU_472	Fungi_1	Ascomycota_1	Laboulbeniomycetes_1				
+OTU_473	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Botryotrichum	
+OTU_474	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_475	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_476	Fungi_1						
+OTU_477	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Bipolaris_1	Bipolaris microstegii 
+OTU_478	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_479	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1		
+OTU_480	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_481	Fungi_1	Ascomycota_1	Laboulbeniomycetes_1				
+OTU_482	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Curvularia_1	Curvularia inaequalis 
+OTU_483	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Hannaella_1	Hannaella zeae 
+OTU_484	Fungi_1	Basidiomycota_1	Agaricomycetes_1				
+OTU_485	Viridiplantae_1	Anthophyta_1	Monocotyledonae_1	Poales_1	Poaceae_1		
+OTU_486	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Tremellaceae	Bulleromyces	Bulleromyces albus 
+OTU_487	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1	Acremonium_1	Acremonium hyalinulum 
+OTU_488	Fungi	Glomeromycota_1	Glomeromycetes_1	Glomerales_1			
+OTU_489	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Veronaea_1	
+OTU_490	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Teichosporaceae_1	Teichospora_1	Teichospora viticola 
+OTU_491	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymosphaeriaceae_1	Paraphaeosphaeria_1	
+OTU_492	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_493	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1			
+OTU_494	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus	Rhizophagus intraradices 
+OTU_495	Fungi_1	Ascomycota_1	Sordariomycetes_1	Glomerellales_1	Plectosphaerellaceae_1	Paragibellulopsis_1	Paragibellulopsis chrysanthemi 
+OTU_496	Fungi_1						
+OTU_497	Fungi_1	Ascomycota					
+OTU_498	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	Diversispora sporocarpia 
+OTU_499	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_500	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	Fusarium waltergamsii 
+OTU_501	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Schizothecium_1	Schizothecium sp  
+OTU_502	Fungi_1	Ascomycota_1					
+OTU_503	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_504	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_505	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Tremellodendropsidales_1			
+OTU_506	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Dictyosporiaceae_1	Dictyosporium_1	Dictyosporium stellatum 
+OTU_507	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Pseudoophiobolus_1	Pseudoophiobolus sp  
+OTU_508	Fungi_1	Ascomycota_1	Sordariomycetes_1	Microascales_1			
+OTU_509	Fungi_1	Glomeromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora sp  
+OTU_510	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Ophiocordycipitaceae_1		
+OTU_511	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Curvularia_1	Curvularia inaequalis 
+OTU_512	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_513	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1			
+OTU_514	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	
+OTU_515	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	Claroideoglomus etunicatum 
+OTU_516	Fungi_1						
+OTU_517	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1		
+OTU_518	Fungi_1	Ascomycota_1					
+OTU_519	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Chaetomium_1	
+OTU_520	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Coniothyriaceae_1	Coniothyrium_1	Coniothyrium sp  
+OTU_521	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1	Acremonium_1	Acremonium polychromum 
+OTU_522	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Aspergillus_1	Aspergillus caninus 
+OTU_523	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Veronaea_1	
+OTU_524	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Rhynchogastremataceae_1	Papiliotrema_1	Papiliotrema frias 
+OTU_525	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_526	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_527	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_528	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_529	Fungi_1	Ascomycota_1					
+OTU_530	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	Vishniacozyma victoriae 
+OTU_531	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus clarus 
+OTU_532	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_533	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_534	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1		
+OTU_535	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_536							
+OTU_537	Fungi_1	Ascomycota_1	Sordariomycetes_1	Trichosphaeriales_1	Trichosphaeriaceae_1	Nigrospora_1	Nigrospora oryzae 
+OTU_538	Fungi_1	Ascomycota_1	Sordariomycetes_1	Microascales_1			
+OTU_539	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_540	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_541	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1			
+OTU_542	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus	Rhizophagus intraradices 
+OTU_543	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	Vishniacozyma dimennae 
+OTU_544	Fungi_1						
+OTU_545	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_546	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_547	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Gigasporales_1	Gigasporaceae_1	Gigaspora_1	Gigaspora rosea 
+OTU_548	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Microdochiaceae_1	Microdochium_1	
+OTU_549	Fungi						
+OTU_550	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Trimorphomycetaceae_1	Saitozyma_1	Saitozyma paraflava 
+OTU_551	Fungi						
+OTU_552	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	
+OTU_553	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Cercophora_1	Cercophora sp  
+OTU_554	Fungi	Ascomycota					
+OTU_555	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1			
+OTU_556	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Bionectriaceae_1	Gliomastix_1	Gliomastix roseogrisea 
+OTU_557	Fungi_1	Ascomycota_1					
+OTU_558	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporales_fam_incertae_sedis_1	Polyschema_1	Polyschema sclerotigenum 
+OTU_559	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Phaeosphaeria	Phaeosphaeria sp  
+OTU_560							
+OTU_561	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1		
+OTU_562	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	Fusarium sp  
+OTU_563	Fungi_1	Mucoromycota_1	Mucoromycetes_1	Mucorales_1	Mucoraceae_1	Mucor_1	Mucor circinelloides 
+OTU_564	Fungi_1	Glomeromycota_1					
+OTU_565	Fungi_1	Ascomycota_1					
+OTU_566	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_567	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Ophiocordycipitaceae_1		
+OTU_568	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_569	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_570	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Dictyosporiaceae_1	Dictyosporium_1	Dictyosporium strelitziae 
+OTU_571	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_572	Fungi_1	Ascomycota_1	Sordariomycetes_1	Branch06_1			
+OTU_573	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_574	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_575	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1			
+OTU_576	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleomassariaceae		
+OTU_577	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales	Pervetustaceae	Pervetustus	
+OTU_578	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus	
+OTU_579	Fungi_1	Ascomycota_1					
+OTU_580	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus	Rhizophagus intraradices 
+OTU_581	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Entolomataceae_1	Entoloma_1	
+OTU_582	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Acremonium_1	Acremonium furcatum 	
+OTU_583	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Filobasidiaceae_1	Filobasidium_1	Filobasidium oeirense 
+OTU_584	Fungi_1	Chytridiomycota_1	Rhizophlyctidomycetes_1	Rhizophlyctidales_1	Rhizophlyctidaceae_1	Rhizophlyctis_1	Rhizophlyctis rosea 
+OTU_585	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Strophariaceae_1		
+OTU_586	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Cladophialophora_1	Cladophialophora sp  
+OTU_587	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_588	Fungi_1	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Ophiosphaerella	Ophiosphaerella korrae 
+OTU_589	Fungi_1	Ascomycota_1	Dothideomycetes_1	Tubeufiales_1	Tubeufiaceae_1		
+OTU_590	Fungi_1	Ascomycota_1	Dothideomycetes_1	Dothideales_1	Aureobasidiaceae_1		
+OTU_591	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_592	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Trichomeriaceae		
+OTU_593	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_594	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_595	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1			
+OTU_596	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Leotiaceae_1	Neobulgaria_1	
+OTU_597	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Ascobolaceae_1	Ascobolus_1	
+OTU_598	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae	Paraglomus	
+OTU_599	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lentitheciaceae_1		
+OTU_600	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae_1	Serendipita_1	Serendipita sp  
+OTU_601	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales_1	Chaetosphaeriaceae_1	Neopseudolachnella	
+OTU_602	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	
+OTU_603	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1	Lipomycetaceae_1	Lipomyces_1	
+OTU_604	Fungi_1	Rozellomycota_1	Rozellomycotina_cls_Incertae_sedis_1	GS05_1			
+OTU_605	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales_1	Glomeraceae_1		
+OTU_606	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Epicoccum keratinophilum 	
+OTU_607	Fungi_1	Rozellomycota					
+OTU_608	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_609	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Stagonosporopsis_1	
+OTU_610	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_611	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_612	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_613	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_614	Fungi						
+OTU_615	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Acremonium_1	Acremonium fusidioides 	
+OTU_616	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Erythrobasidiales	Erythrobasidiales_fam_incertae_sedis_1	Sakaguchia_1	
+OTU_617	Fungi_1	Ascomycota_1	Dothideomycetes_1	Tubeufiales_1			
+OTU_618	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae_1	Serendipita_1	
+OTU_619	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_620	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_621	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	
+OTU_622	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_623	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_624	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1			
+OTU_625	Fungi_1	Glomeromycota_1					
+OTU_626	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_627	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Holtermanniales_1	Holtermanniella_1	Holtermanniella wattica 	
+OTU_628	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Chrysozymaceae_1			
+OTU_629	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1			
+OTU_630	Fungi_1						
+OTU_631							
+OTU_632	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_633	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Periconiaceae_1	Periconia_1	
+OTU_634	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Neoascochyta_1	
+OTU_635	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_636	Fungi_1	Ascomycota_1	Chaetomiaceae	Trichocladium_1	Trichocladium opacum 		
+OTU_637	Fungi_1	Glomeromycota_1	Glomeromycetes				
+OTU_638	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Cystofilobasidiales_1	Cystofilobasidiaceae_1	Cystofilobasidium_1	Cystofilobasidium capitatum 
+OTU_639	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_640	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporales_fam_incertae_sedis_1		
+OTU_641	Fungi_1	Chytridiomycota_1					
+OTU_642	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	Vishniacozyma sp  
+OTU_643	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1		
+OTU_644	Fungi	Ascomycota					
+OTU_645	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae_1		
+OTU_646	Fungi	Basidiomycota					
+OTU_647	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_648	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_649	Fungi						
+OTU_650	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1	Alphamycetaceae	Betamyces	Betamyces americae-meridionalis 
+OTU_651	Fungi_1	Glomeromycota_1					
+OTU_652	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Cladophialophora_1	
+OTU_653							
+OTU_654	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_655	Fungi						
+OTU_656	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_657	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1			
+OTU_658	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1			
+OTU_659	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_660	Fungi_1						
+OTU_661	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Oehlia_1	Oehlia diaphana 
+OTU_662	Fungi	Ascomycota					
+OTU_663	Fungi_1	Basidiobolomycota_1					
+OTU_664	Fungi_1	Ascomycota_1	Dothideomycetes_1	Venturiales_1	Venturiaceae_1		
+OTU_665	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella hyalina 
+OTU_666	Fungi_1	Ascomycota_1	Dothideomycetes_1				
+OTU_667	Fungi_1	Ascomycota_1	Dothideomycetes_1	Tubeufiales_1	Tubeufiaceae_1		
+OTU_668	Fungi						
+OTU_669	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Rhodotorula_1	Rhodotorula toruloides 
+OTU_670	Fungi_1	Ascomycota_1					
+OTU_671	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1		
+OTU_672	Fungi_1	Ascomycota	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1		
+OTU_673							
+OTU_674	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae		
+OTU_675	Fungi_1						
+OTU_676	Fungi						
+OTU_677	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales	Chaetosphaeriaceae	Neopseudolachnella	
+OTU_678	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_679	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_680	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Epicoccum	Epicoccum plurivorum 
+OTU_681	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora sp  
+OTU_682	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_683	Fungi	Glomeromycota	Glomeromycetes	Gigasporales	Gigasporaceae_1	Gigaspora_1	
+OTU_684	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Ganodermataceae_1	Ganoderma_1	
+OTU_685	Fungi_1	Ascomycota_1					
+OTU_686	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales_1	Glomeraceae_1		
+OTU_687	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1			
+OTU_688	Fungi_1	Chytridiomycota_1					
+OTU_689	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_690	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Cantharellales_fam_incertae_sedis_1	Sistotrema_1	
+OTU_691							
+OTU_692	Fungi						
+OTU_693	Fungi_1	Ascomycota_1					
+OTU_694	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Cladosporiaceae_1	Cladosporium_1	Cladosporium grevilleae 
+OTU_695	Fungi_1						
+OTU_696	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae	Mortierella	
+OTU_697	Fungi_1	Sordariomycetes	Xylariales	Microdochiaceae	Idriella	Idriella sp  	
+OTU_698	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	Diversispora epigaea 
+OTU_699	Fungi_1						
+OTU_700	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae	Claroideoglomus	Claroideoglomus claroideum 
+OTU_701	Fungi_1	Basidiomycota_1	Agaricostilbomycetes_1	Agaricostilbales_1	Chionosphaeraceae_1	Kurtzmanomyces_1	Kurtzmanomyces sp  
+OTU_702	Fungi_1	Glomeromycota_1					
+OTU_703	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae	Vishniacozyma	Vishniacozyma victoriae 
+OTU_704	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Hannaella_1	Hannaella coprosmae 
+OTU_705	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_706	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_707	Fungi_1	Chytridiomycota	Rhizophydiomycetes	Rhizophydiales_1			
+OTU_708	Fungi_1	Basidiomycota_1	Tremellomycetes	Tremellales			
+OTU_709	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1			
+OTU_710	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_711	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_712	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales	Pervetustaceae	Pervetustus	
+OTU_713	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1	Rhizophydiales_fam_incertae_sedis_1	Operculomyces_1	Operculomyces sp  
+OTU_714	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1			
+OTU_715	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium simplicissimum 
+OTU_716	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	Glomus tetrastratosum 
+OTU_717	Fungi	Ascomycota	Sordariomycetes	Hypocreales_1			
+OTU_718	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Aspergillus_1	Aspergillus parasiticus 
+OTU_719	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1	Acaulospora_1	Acaulospora scrobiculata 
+OTU_720	Fungi_1	Chytridiomycota	Rhizophydiomycetes	Rhizophydiales_1			
+OTU_721	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraphoma_1	
+OTU_722	Fungi_1	Ascomycota_1	Sordariomycetes_1	Branch06_1			
+OTU_723	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Cucurbitariaceae_1	Pyrenochaetopsis_1	Pyrenochaetopsis pratorum 
+OTU_724	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Dictyosporiaceae_1	Pseudocoleophoma_1	Pseudocoleophoma sp  
+OTU_725	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Didymella	
+OTU_726	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_727	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_728	Fungi_1	Basidiobolomycota_1	Basidiobolomycetes_1	Basidiobolales_1			
+OTU_729	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae_1		
+OTU_730	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Sporormiaceae_1	Westerdykella_1	Westerdykella sp  
+OTU_731	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1	Articulospora_1	
+OTU_732	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lentitheciaceae_1	Keissleriella	Keissleriella caraganae 
+OTU_733	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_734	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	
+OTU_735	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Clavicipitaceae_1	Claviceps_1	Claviceps arundinis 
+OTU_736	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_737	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	Diversispora epigaea 
+OTU_738	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_739	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Stachybotrys_1	Stachybotrys limonispora 
+OTU_740	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Dichotomopilus_1	
+OTU_741	Fungi_1	Ascomycota_1	Sordariomycetes_1	Glomerellales_1	Plectosphaerellaceae_1	Lectera_1	Lectera capsici 
+OTU_742	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_743	Fungi_1	Ascomycota_1					
+OTU_744	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Aspergillus_1	
+OTU_745	Fungi_1	Ascomycota_1					
+OTU_746	Fungi						
+OTU_747	Fungi_1	Rozellomycota_1					
+OTU_748	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	Vishniacozyma carnescens 
+OTU_749	Fungi_1	Ascomycota_1	Sordariomycetes_1	Magnaporthales_1	Magnaporthaceae_1	Magnaporthiopsis_1	
+OTU_750	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Trichocomaceae_1	Talaromyces_1	Talaromyces trachyspermus 
+OTU_751	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_752	Fungi_1						
+OTU_753	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_754	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1		
+OTU_755	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	Glomus macrocarpum 
+OTU_756	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_757	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_758	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	
+OTU_759	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_760	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Symmetrosporaceae_1	Symmetrospora_1	Symmetrospora coprosmae 	
+OTU_761	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Niessliaceae		
+OTU_762	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	Fusarium sporotrichioides 
+OTU_763	Metazoa_1	Arthropoda_1					
+OTU_764	Fungi_1	Ascomycota_1					
+OTU_765	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	
+OTU_766	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1	Saccharomycetales_fam_incertae_sedis_1	Candida_1	Candida railenensis 
+OTU_767	Fungi_1	Ascomycota_1					
+OTU_768	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus	
+OTU_769	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_770	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_771	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1			
+OTU_772	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Dioszegia_1	Dioszegia rishiriensis 
+OTU_773	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Holtermanniales_1	Holtermanniella_1	Holtermanniella festucosa 	
+OTU_774	Fungi_1	Ascomycota_1	Dothideomycetes_1	Tubeufiales_1	Tubeufiaceae_1	Neohelicomyces_1	Neohelicomyces hyalosporus 
+OTU_775	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus intraradices 
+OTU_776	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1	Coniochaetaceae_1	Coniochaeta_1	Coniochaeta sp  
+OTU_777	Fungi	Ascomycota	Sordariomycetes	Hypocreales			
+OTU_778	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_779	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_780	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1	Acremonium_1	Acremonium furcatum 
+OTU_781	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1		
+OTU_782	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_783	Fungi						
+OTU_784	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Podospora_1	Podospora sp  
+OTU_785	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Ascobolaceae_1	Ascobolus_1	Ascobolus sp  
+OTU_786	Fungi_1						
+OTU_787	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_788	Fungi_1	Basidiomycota_1					
+OTU_789	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Cladophialophora_1	
+OTU_790	Fungi_1	Ascomycota_1	Sordariomycetes_1	Microascales_1	Microascaceae_1	Scedosporium	Scedosporium dehoogii 
+OTU_791	Fungi_1	Ascomycota_1					
+OTU_792	Fungi_1	Ascomycota_1	Sordariomycetes_1	Magnaporthales_1	Magnaporthaceae_1	Magnaporthiopsis_1	Magnaporthiopsis agrostidis 
+OTU_793	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Symmetrosporaceae_1	Symmetrospora_1		
+OTU_794	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1		
+OTU_795	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_796	Fungi_1						
+OTU_797	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_798	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_799	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	Diversispora sp  
+OTU_800	Fungi_1	Olpidiomycota_1	Olpidiomycetes_1	Olpidiales_1	Olpidiaceae_1	Olpidium_1	
+OTU_801	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Marasmiaceae_1	Marasmius_1	
+OTU_802	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_803	Fungi_1	Ascomycota_1	Dothideomycetes_1	Tubeufiales_1	Tubeufiaceae_1		
+OTU_804	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales	Glomeraceae		
+OTU_805	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Veronaea_1	Veronaea sp  
+OTU_806	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lentitheciaceae_1		
+OTU_807	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_808	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_809	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1		
+OTU_810	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Acremonium_1	Acremonium sp  	
+OTU_811	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_812	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymosphaeriaceae_1	Paraphaeosphaeria_1	
+OTU_813	Fungi_1	Ascomycota_1	Leotiomycetes_1				
+OTU_814	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_815	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_816	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Aspergillus_1	
+OTU_817	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_818	Fungi	Basidiomycota					
+OTU_819							
+OTU_820	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales_1	Chaetosphaeriaceae_1	Chaetosphaeria_1	Chaetosphaeria sp  
+OTU_821	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_822	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Microdominikia	Microdominikia sp  
+OTU_823	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1		
+OTU_824	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_825	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Onygenales_1			
+OTU_826	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Thelephorales_1	Thelephoraceae_1		
+OTU_827	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium brevicompactum 
+OTU_828	Fungi_1	Basidiomycota_1	Tremellomycetes_1				
+OTU_829	Fungi_1	Chytridiomycota_1	Rhizophlyctidomycetes_1	Rhizophlyctidales_1	Sonoraphlyctidaceae_1	Sonoraphlyctis_1	
+OTU_830	Fungi	Glomeromycota	Glomeromycetes	Gigasporales	Gigasporaceae		
+OTU_831	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1			
+OTU_832	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Tricholomataceae_1		
+OTU_833	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Stemphylium_1	Stemphylium solani 
+OTU_834	Fungi_1	Mucoromycota_1	Mucoromycetes_1	Mucorales_1	Rhizopodaceae_1	Rhizopus_1	Rhizopus arrhizus 
+OTU_835	Fungi_1						
+OTU_836	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1			
+OTU_837	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymosphaeriaceae_1		
+OTU_838	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Tetraplosphaeriaceae_1	Tetraplosphaeria_1	Tetraplosphaeria sasicola 
+OTU_839	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	
+OTU_840	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1			
+OTU_841	Fungi_1						
+OTU_842	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Leotiaceae_1	Gorgomyces_1	
+OTU_843	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	Claroideoglomus claroideum 
+OTU_844	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_845	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1				
+OTU_846	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Cercophora	Cercophora coprophila 
+OTU_847	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_848	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_849	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1		
+OTU_850	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Pezizaceae_1	Peziza_1	
+OTU_851	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Ramularia_1	
+OTU_852	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_853	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Cyphellophoraceae_1	Cyphellophora_1	Cyphellophora gamsii 
+OTU_854	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae		
+OTU_855	Fungi	Ascomycota	Sordariomycetes	Hypocreales			
+OTU_856	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Piskurozymaceae_1	Solicoccozyma_1	
+OTU_857	Fungi_1						
+OTU_858	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Xylariales_fam_incertae_sedis_1	Robillarda_1	Robillarda sessilis 
+OTU_859	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1			
+OTU_860	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus occultum 
+OTU_861	Fungi						
+OTU_862	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Conlarium_1		
+OTU_863	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Septoglomus_1	
+OTU_864	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	Diversispora sp  
+OTU_865	Fungi_1	Mucoromycota_1	Mucoromycetes_1	Mucorales_1	Mucoraceae_1	Mucor_1	
+OTU_866	Fungi_1	Ascomycota_1	Eurotiomycetes	Umbilicariales_1	Umbilicariaceae_1	Umbilicaria_1	
+OTU_867	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_868	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae_1		
+OTU_869	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium brasilianum 
+OTU_870	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Chaetothyriaceae_1		
+OTU_871	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Alternaria_1	
+OTU_872	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	Trichoderma sinuosum 
+OTU_873	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_874	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Cladosporiaceae_1	Cladosporium_1	Cladosporium sphaerospermum 
+OTU_875	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Minimelanolocus	Minimelanolocus sp  
+OTU_876	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae_1		
+OTU_877	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1		
+OTU_878	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Pyronemataceae_1	Scutellinia_1	
+OTU_879	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_880	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales_1	Chaetosphaeriaceae_1		
+OTU_881	Fungi_1	Chytridiomycota_1					
+OTU_882	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Filobasidiaceae_1	Filobasidium_1	
+OTU_883	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1		
+OTU_884	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_885	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Leucosporidiales_1	Leucosporidiaceae_1	Leucosporidium_1	Leucosporidium intermedium 
+OTU_886	Fungi_1	Chytridiomycota_1					
+OTU_887	Fungi_1	Glomeromycota_1					
+OTU_888	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	Vishniacozyma sp  
+OTU_889	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	Fusarium sporotrichioides 
+OTU_890	Fungi_1						
+OTU_891	Fungi						
+OTU_892	Fungi						
+OTU_893	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_894	Fungi_1	Ascomycota_1	Leotiomycetes_1	Thelebolales_1	Pseudeurotiaceae_1	Pseudogymnoascus_1	
+OTU_895	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1		
+OTU_896	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1	Arthrobotrys_1	Arthrobotrys scaphoides 
+OTU_897	Fungi_1	Chytridiomycota_1					
+OTU_898	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_899	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1		
+OTU_900	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	Glomus macrocarpum 
+OTU_901	Fungi_1						
+OTU_902	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Cyphellophoraceae_1	Cyphellophora_1	Cyphellophora sp  
+OTU_903	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales_1	Glomeraceae_1		
+OTU_904	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Cystofilobasidiales_1	Mrakiaceae_1	Udeniomyces_1	Udeniomyces pyricola 
+OTU_905	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae		
+OTU_906	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora sp  
+OTU_907	Fungi_1	Ascomycota_1	Sordariomycetes_1	Branch06_1			
+OTU_908	Fungi_1	Olpidiomycota_1	Olpidiomycetes_1	Olpidiales_1	Olpidiaceae_1	Olpidium_1	
+OTU_909	Fungi						
+OTU_910							
+OTU_911	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Cyphellophoraceae_1	Cyphellophora_1	Cyphellophora fusarioides 
+OTU_912	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Leucosporidiales_1	Leucosporidiaceae_1	Leucosporidium_1	Leucosporidium golubevii 
+OTU_913	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bullera crocea 		
+OTU_914	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae	Paraglomus	
+OTU_915	Fungi_1	Ascomycota_1					
+OTU_916	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Rhynchogastremataceae_1	Papiliotrema_1	Papiliotrema aurea 
+OTU_917	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus occultum 
+OTU_918	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Cladophialophora_1	
+OTU_919	Fungi_1						
+OTU_920	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Bipolaris_1	
+OTU_921	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus clarus 
+OTU_922	Fungi_1						
+OTU_923	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Sporormiaceae_1	Preussia_1	
+OTU_924	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_925	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_926	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_927	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus	
+OTU_928	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Ophiocordycipitaceae_1	Purpureocillium_1	Purpureocillium lavendulum 
+OTU_929	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	Vishniacozyma victoriae 
+OTU_930	Fungi_1	Ascomycota_1					
+OTU_931	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_932	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_933	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_934	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Clavicipitaceae_1	Metarhizium_1	Metarhizium marquandii 
+OTU_935	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Cordycipitaceae_1	Beauveria_1	
+OTU_936	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_937	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_938	Fungi						
+OTU_939	Fungi_1	Ascomycota_1	Dothideomycetes_1				
+OTU_940							
+OTU_941	Fungi_1	Glomeromycota_1					
+OTU_942	Fungi						
+OTU_943	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Leotiaceae_1		
+OTU_944	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus clarus 
+OTU_945	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Phialophora_1	Phialophora foetens 
+OTU_946	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1			
+OTU_947	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Microbotryomycetes_ord_incertae_sedis_1	Chrysozymaceae_1	Sampaiozyma_1	
+OTU_948	Fungi_1	Ascomycota_1	Sordariomycetes_1	Myrmecridiales_1	Myrmecridiaceae_1	Myrmecridium_1	
+OTU_949	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_950	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_951	Fungi_1	Ascomycota_1	Leotiomycetes_1				
+OTU_952	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraphoma_1	Paraphoma rhaphiolepidis 
+OTU_953	Fungi	Glomeromycota_1	Glomeromycetes_1	Glomerales_1			
+OTU_954	Fungi						
+OTU_955	Fungi_1						
+OTU_956	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Hyaloscyphaceae_1		
+OTU_957	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Hyaloscyphaceae	Cistella	Cistella sp  
+OTU_958	Fungi	Basidiomycota	Agaricomycetes				
+OTU_959	Fungi_1	Chytridiomycota_1					
+OTU_960	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_961	Fungi						
+OTU_962	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus	Glomus tetrastratosum 
+OTU_963	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_964	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Bulleribasidium_1	Bulleribasidium oberjochense 
+OTU_965	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_966	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_967	Fungi						
+OTU_968	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Grifolaceae_1	Grifola_1	Grifola frondosa 
+OTU_969	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Sporormiaceae_1		
+OTU_970	Fungi_1	Ascomycota_1	Dothideomycetes_1				
+OTU_971	Fungi						
+OTU_972	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1			
+OTU_973	Fungi_1	Ascomycota_1	Sordariomycetes_1	Glomerellales_1	Glomerellaceae_1	Colletotrichum_1	Colletotrichum graminicola 
+OTU_974	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella zychae 
+OTU_975	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Schizothecium_1	
+OTU_976	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1		
+OTU_977	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Rhodotorula_1	Rhodotorula taiwanensis 
+OTU_978	Fungi_1	Ascomycota_1	Sordariomycetes_1	Glomerellales_1	Plectosphaerellaceae_1		
+OTU_979	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae_1		
+OTU_980	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Gigasporales_1	Gigasporaceae_1	Gigaspora_1	
+OTU_981	Fungi_1						
+OTU_982	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1			
+OTU_983	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Oehlia_1	Oehlia diaphana 
+OTU_984	Fungi	Ascomycota					
+OTU_985	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Paramycosphaerella	
+OTU_986	Fungi_1	Ascomycota_1	Leotiomycetes_1				
+OTU_987	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_988	Fungi	Ascomycota	Sordariomycetes	Sordariales			
+OTU_989	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_990	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1	Rhizophydiaceae_1	Rhizophydium_1	Rhizophydium sp  
+OTU_991	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1		
+OTU_992	Fungi	Ascomycota	Orbiliomycetes				
+OTU_993	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	Claroideoglomus etunicatum 
+OTU_994	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Russulales_1	Peniophoraceae_1	Peniophora_1	
+OTU_995	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Ramularia_1	Ramularia pratensis 
+OTU_996	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_997	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Trimorphomycetaceae_1	Saitozyma_1	Saitozyma flava 
+OTU_998	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Zymoseptoria	Zymoseptoria tritici 
+OTU_999	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella	Mortierella sp  
+OTU_1000	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Cordycipitaceae_1	Cordyceps	
+OTU_1001	Fungi_1	Ascomycota_1	Dothideomycetes_1	Venturiales_1	Venturiaceae_1		
+OTU_1002	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	Claroideoglomus lamellosum 
+OTU_1003	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Microdominikia_1	Microdominikia sp  
+OTU_1004	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1		
+OTU_1005	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Septoglomus_1	Septoglomus viscosum 
+OTU_1006	Fungi_1						
+OTU_1007							
+OTU_1008	Fungi_1	Mucoromycota_1	Mucoromycetes_1	Mucorales_1	Mucoraceae_1	Mucor_1	Mucor hiemalis 
+OTU_1009	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1	Exidiaceae_1	Exidia_1	Exidia sp  
+OTU_1010	Fungi_1	Ascomycota_1	Sordariomycetes_1	Myrmecridiales_1	Myrmecridiaceae_1	Myrmecridium_1	
+OTU_1011	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Ascobolaceae_1	Ascobolus_1	
+OTU_1012	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1013	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_1014	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Phoma_1	
+OTU_1015	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1	Ceratobasidium_1	
+OTU_1016	Fungi_1	Ascomycota_1	Laboulbeniomycetes_1				
+OTU_1017	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Pezizaceae_1		
+OTU_1018	Fungi						
+OTU_1019	Fungi_1						
+OTU_1020	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1021	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Cladosporiaceae_1	Cladosporium_1	
+OTU_1022	Fungi_1	Ascomycota_1	Leotiomycetes_1	Erysiphales_1	Erysiphaceae_1	Podosphaera_1	
+OTU_1023	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1024	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1025	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1			
+OTU_1026	Fungi	Glomeromycota					
+OTU_1027	Fungi	Glomeromycota	Glomeromycetes_1	Glomerales_1			
+OTU_1028	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_1029	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Zymoseptoria_1	
+OTU_1030	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae_1		
+OTU_1031	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1	Exidiaceae_1	Exidia_1	Exidia glandulosa 
+OTU_1032	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymosphaeriaceae_1	Paraphaeosphaeria_1	Paraphaeosphaeria michotii 
+OTU_1033	Fungi	Ascomycota					
+OTU_1034	Fungi_1	Ascomycota_1	Dothideomycetes_1				
+OTU_1035	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Filobasidiaceae_1	Filobasidium_1	Filobasidium wieringae 
+OTU_1036	Fungi_1	Rozellomycota_1					
+OTU_1037	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Septoglomus_1	
+OTU_1038	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1		
+OTU_1039	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1040	Fungi_1	Basidiomycota_1					
+OTU_1041	Fungi	Ascomycota					
+OTU_1042	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Leptospora_1	
+OTU_1043	Fungi_1						
+OTU_1044	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	
+OTU_1045	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	Claroideoglomus claroideum 
+OTU_1046	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales	Glomeraceae_1		
+OTU_1047	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Leptospora_1	
+OTU_1048	Fungi_1	Ascomycota_1	Helotiales_1	Helotiales_fam_incertae_sedis_1	Mirandina_1	Mirandina sp  	
+OTU_1049	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1			
+OTU_1050	Fungi_1	Rozellomycota_1					
+OTU_1051	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Dominikia_1	Dominikia sp  
+OTU_1052	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1		
+OTU_1053	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus	
+OTU_1054	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_1055	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1		
+OTU_1056	Fungi_1						
+OTU_1057	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1		
+OTU_1058	Fungi_1						
+OTU_1059	Fungi_1	Chytridiomycota_1					
+OTU_1060	Fungi_1	Rozellomycota_1					
+OTU_1061	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_1062	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_1063	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1064	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	Claroideoglomus etunicatum 
+OTU_1065	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1			
+OTU_1066	Fungi_1	Ascomycota_1	Dothideomycetes_1	Tubeufiales_1			
+OTU_1067	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1068	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_1069	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1070	Fungi_1	Ascomycota_1	Dothideomycetes_1	Venturiales_1	Venturiaceae_1	Venturia_1	
+OTU_1071	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Zymoseptoria	
+OTU_1072	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Onygenales_1	Onygenales_fam_incertae_sedis_1	Chrysosporium_1	Chrysosporium lobatum 
+OTU_1073	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1074	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae_1	Archaeospora_1	Archaeospora sp  
+OTU_1075	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Entolomataceae_1		
+OTU_1076	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	
+OTU_1077	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Cordycipitaceae_1	Lecanicillium_1	Lecanicillium primulinum 
+OTU_1078	Fungi	Ascomycota					
+OTU_1079	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Microbotryomycetes_ord_incertae_sedis_1	Microbotryomycetes_fam_incertae_sedis_1	Colacogloea_1	Colacogloea sp  
+OTU_1080	Fungi						
+OTU_1081	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus clarus 
+OTU_1082	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Marasmiaceae_1	Marasmius_1	
+OTU_1083	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1			
+OTU_1084	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Trimorphomycetaceae_1	Saitozyma_1	Saitozyma sp  
+OTU_1085	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1		
+OTU_1086	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1087	Fungi						
+OTU_1088	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1			
+OTU_1089	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Gnomoniaceae_1	Plagiostoma_1	
+OTU_1090	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1			
+OTU_1091	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1092	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1093	Fungi_1						
+OTU_1094							
+OTU_1095	Fungi_1						
+OTU_1096	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Teichosporaceae_1	Teichospora_1	Teichospora trabicola 
+OTU_1097	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	
+OTU_1098	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_1099	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_1100	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1			
+OTU_1101	Fungi_1	Olpidiomycota_1	Olpidiomycetes_1	Olpidiales_1	Olpidiaceae_1	Olpidium_1	
+OTU_1102	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1103	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Rhodotorula_1	Rhodotorula nothofagi 
+OTU_1104	Fungi_1	Zoopagomycota_1					
+OTU_1105	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1		
+OTU_1106	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Schizothecium_1	Schizothecium curvuloides 
+OTU_1107	Fungi_1	Chytridiomycota_1					
+OTU_1108	Fungi_1	Basidiobolomycota_1					
+OTU_1109	Fungi_1	Ascomycota_1	Dothideomycetes_1	Dothideales_1	Dothioraceae_1	Dothiora_1	
+OTU_1110	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Melanommataceae		
+OTU_1111	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Cystobasidiales_1	Cystobasidiaceae_1		
+OTU_1112	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1			
+OTU_1113	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Ophiocordycipitaceae_1	Hirsutella_1	Hirsutella vermicola 
+OTU_1114	Fungi_1						
+OTU_1115	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Striaticonidium_1	Striaticonidium humicola 
+OTU_1116	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Hypocrea_1	Hypocrea ampulliformis 
+OTU_1117	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1118	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Acremoniopsis_1	Acremoniopsis suttonii 
+OTU_1119	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_1120							
+OTU_1121	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Trichosporonales_1	Trichosporonaceae_1	Trichosporon_1	Trichosporon coremiiforme 
+OTU_1122	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales	Pervetustaceae	Pervetustus	
+OTU_1123							
+OTU_1124	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae	Claroideoglomus	
+OTU_1125	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1			
+OTU_1126	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	Claroideoglomus claroideum 
+OTU_1127	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium hetheringtonii 
+OTU_1128	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1		
+OTU_1129	Fungi_1						
+OTU_1130	Fungi_1	Basidiobolomycota_1	Basidiobolomycetes	Basidiobolales			
+OTU_1131	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Paraphoma_1	
+OTU_1132	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1			
+OTU_1133	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Periconiaceae_1	Periconia_1	
+OTU_1134	Fungi						
+OTU_1135	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Hymenochaetales_1	Schizoporaceae_1	Xylodon_1	Xylodon sambuci 
+OTU_1136	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	
+OTU_1137	Fungi	Glomeromycota	Glomeromycetes	Gigasporales_1	Gigasporaceae_1	Gigaspora_1	
+OTU_1138	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_1139	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1			
+OTU_1140	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Sarocladium_1	Sarocladium zeae 	
+OTU_1141	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Pseudoophiobolus_1	Pseudoophiobolus rosae 
+OTU_1142	Fungi						
+OTU_1143	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1			
+OTU_1144	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Cladosporiaceae_1	Rachicladosporium_1	Rachicladosporium cboliae 
+OTU_1145	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Periconiaceae_1	Periconia_1	
+OTU_1146	Fungi_1	Ascomycota_1					
+OTU_1147	Fungi_1	Ascomycota_1	Sordariomycetes_1	Myrmecridiales_1	Myrmecridiaceae_1	Myrmecridium_1	Myrmecridium phragmitis 
+OTU_1148	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_1149	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Rhodotorula_1	Rhodotorula sp  
+OTU_1150	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	Vishniacozyma heimaeyensis 
+OTU_1151	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1152	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Cystofilobasidiales_1	Mrakiaceae_1	Mrakia_1	Mrakia frigida 
+OTU_1153	Fungi_1	Glomeromycota_1					
+OTU_1154	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae		
+OTU_1155	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales_1			
+OTU_1156	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Acremonium_1		
+OTU_1157	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Ramularia_1	
+OTU_1158	Fungi						
+OTU_1159	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1160	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1161	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Teratosphaeriaceae_1	Devriesia_1	Devriesia americana 
+OTU_1162	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Cadophora_1	Cadophora gregata 	
+OTU_1163	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Alternaria_1	
+OTU_1164	Fungi_1	Ascomycota_1					
+OTU_1165	Fungi_1	Ascomycota_1	Dothideomycetes_1	Valsariales_1	Valsariaceae_1	Valsaria_1	Valsaria insitiva 
+OTU_1166	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	Vishniacozyma globispora 
+OTU_1167	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1			
+OTU_1168	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Dioszegia_1	
+OTU_1169	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Setophoma	
+OTU_1170	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Erythrobasidiales			
+OTU_1171							
+OTU_1172	Fungi_1	Basidiomycota_1	Wallemiomycetes_1	Wallemiales_1	Wallemiaceae_1	Wallemia_1	
+OTU_1173	Anthophyta	Monocotyledonae	Commelinales	Pontederiaceae_1	Pontederia_1	Pontederia sp  	
+OTU_1174	Fungi_1	Rozellomycota_1					
+OTU_1175	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Oehlia	
+OTU_1176	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_1177	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	
+OTU_1178	Fungi_1						
+OTU_1179	Fungi_1	Ascomycota_1	Sordariomycetes_1	Magnaporthales_1	Magnaporthaceae_1	Magnaporthe_1	Magnaporthe grisea 
+OTU_1180	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1181							
+OTU_1182	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymosphaeriaceae_1		
+OTU_1183	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_1184	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Microdominikia	Microdominikia sp  
+OTU_1185	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Clavicipitaceae_1	Metapochonia	Metapochonia goniodes 
+OTU_1186	Fungi_1	Chytridiomycota_1					
+OTU_1187	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1188	Fungi_1	Ascomycota_1	Dothideomycetes_1	Venturiales_1	Venturiaceae_1	Venturia_1	
+OTU_1189	Fungi	Ascomycota	Sordariomycetes				
+OTU_1190							
+OTU_1191	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1192	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1193	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus sp  
+OTU_1194	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Coniothyriaceae_1	Coniothyrium_1	Coniothyrium sp  
+OTU_1195	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1196	Fungi_1	Chytridiomycota_1					
+OTU_1197	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Sarocladium_1	Sarocladium summerbellii 	
+OTU_1198	Fungi_1	Chytridiomycota_1	Rhizophlyctidomycetes_1	Rhizophlyctidales_1	Rhizophlyctidaceae_1	Rhizophlyctis_1	Rhizophlyctis rosea 
+OTU_1199	Fungi_1	Basidiomycota_1	Tremellomycetes_1				
+OTU_1200	Fungi_1	Chytridiomycota_1					
+OTU_1201	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Ilyonectria_1	Ilyonectria robusta 
+OTU_1202	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales			
+OTU_1203	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Clavicipitaceae_1		
+OTU_1204	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Ramularia_1	Ramularia nyssicola 
+OTU_1205	Fungi_1	Ascomycota	Dothideomycetes	Dothideomycetes_ord_incertae_sedis_1	Dothideomycetes_fam_incertae_sedis_1	Radulidium_1	Radulidium subulatum 
+OTU_1206	Fungi_1	Ascomycota_1	Dothideomycetes_1	Acrospermales_1	Leptodiscella_1	Leptodiscella sp  	
+OTU_1207	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_1208	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1		
+OTU_1209	Fungi						
+OTU_1210	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1211	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lophiostomataceae_1		
+OTU_1212	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	Vishniacozyma victoriae 
+OTU_1213	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Russulales_1	Hericiaceae_1	Hericium_1	Hericium yumthangense 
+OTU_1214	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Massarinaceae_1	Stagonospora_1	Stagonospora trichophoricola 
+OTU_1215	Fungi_1	Ascomycota_1	Leotiomycetes_1	Thelebolales_1	Pseudeurotiaceae_1		
+OTU_1216	Fungi_1	Basidiomycota_1	Agaricomycetes_1				
+OTU_1217	Fungi_1	Blastocladiomycota_1	Blastocladiomycetes_1	Blastocladiales_1	Blastocladiaceae_1	Allomyces_1	Allomyces arbusculus 
+OTU_1218	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_1219	Fungi_1	Glomeromycota_1					
+OTU_1220	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1		
+OTU_1221	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	
+OTU_1222	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Torulaceae_1	Torula_1	
+OTU_1223	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1224	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Filobasidiaceae_1	Naganishia_1	Naganishia diffluens 
+OTU_1225	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Tolypocladium_1	Tolypocladium parasiticum 	
+OTU_1226	Rhizaria_1	Cercozoa_1					
+OTU_1227	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1			
+OTU_1228	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae		
+OTU_1229	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1230	Fungi						
+OTU_1231	Fungi_1						
+OTU_1232	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Phoma	
+OTU_1233	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Schizothecium_1	
+OTU_1234	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae_1	Serendipita_1	
+OTU_1235	Fungi						
+OTU_1236	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Phoma_1	Phoma sp  
+OTU_1237	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1		
+OTU_1238	Fungi_1	Ascomycota_1	Sordariomycetes				
+OTU_1239	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Thelephorales_1	Thelephoraceae_1		
+OTU_1240	Fungi						
+OTU_1241	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1242	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1243	Fungi_1	Basidiomycota_1	Pucciniomycetes_1	Platygloeales_1	Eocronartiaceae	Eocronartium	
+OTU_1244	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Hannaella	Hannaella phetchabunensis 
+OTU_1245	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Clavicipitaceae_1	Paecilomyces_1	Paecilomyces sp  
+OTU_1246	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Trichomeriaceae_1	Knufia_1	
+OTU_1247							
+OTU_1248	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Phallales_1	Phallaceae_1	Phallus_1	Phallus rugulosus 
+OTU_1249	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae		
+OTU_1250	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Trichocomaceae_1	Talaromyces_1	Talaromyces ucrainicus 
+OTU_1251	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Clavicipitaceae_1		
+OTU_1252	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1		
+OTU_1253	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Thelephorales_1	Thelephoraceae_1	Amaurodon_1	Amaurodon sp  
+OTU_1254	Fungi_1	Basidiomycota_1	Agaricostilbomycetes_1	Agaricostilbales_1	Chionosphaeraceae_1	Kurtzmanomyces_1	
+OTU_1255	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Ramularia_1	
+OTU_1256	Fungi	Basidiomycota					
+OTU_1257	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lentitheciaceae_1	Keissleriella_1	Keissleriella taminensis 
+OTU_1258	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Septoglomus_1	Septoglomus viscosum 
+OTU_1259	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Aspergillus_1	Aspergillus chlamydosporus 
+OTU_1260	Fungi_1	Ascomycota_1	Sordariomycetes_1	Phomatosporales_1	Phomatosporaceae_1	Phomatospora_1	Phomatospora biseriata 
+OTU_1261	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	Fusarium algeriense 
+OTU_1262	Fungi	Ascomycota					
+OTU_1263	Fungi_1	Ascomycota_1	Capnodiales				
+OTU_1264	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Dioszegia_1	
+OTU_1265	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Edenia_1	Edenia gomezpompae 
+OTU_1266	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_1267	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraphoma_1	
+OTU_1268	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_1269	Fungi	Ascomycota					
+OTU_1270	Fungi_1	Chytridiomycota_1	Lobulomycetes_1				
+OTU_1271	Fungi_1	Ascomycota_1	Taphrinomycetes_1	Taphrinales_1	Taphrinaceae_1	Taphrina_1	Taphrina inositophila 
+OTU_1272	Fungi						
+OTU_1273	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus occultum 
+OTU_1274	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_1275	Fungi						
+OTU_1276	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Leptosphaeriaceae_1	Leptosphaeria_1	
+OTU_1277	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_1278	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	
+OTU_1279	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Leucosporidiales_1			
+OTU_1280	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_1281	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1	Dipodascaceae_1	Dipodascus_1	Dipodascus geotrichum 
+OTU_1282	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Aspergillus_1	Aspergillus collinsii 
+OTU_1283	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	
+OTU_1284	Fungi						
+OTU_1285	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Sclerotiniaceae_1		
+OTU_1286	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Trechisporales_1	Hydnodontaceae_1	Trechispora_1	Trechispora sp  
+OTU_1287	Fungi						
+OTU_1288	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1			
+OTU_1289	Fungi_1						
+OTU_1290	Fungi_1	Ascomycota_1	Sordariomycetes_1	Glomerellales_1	Plectosphaerellaceae_1	Lectera_1	
+OTU_1291	Fungi_1	Ascomycota_1	Taphrinomycetes_1	Taphrinales_1	Taphrinaceae_1	Taphrina_1	
+OTU_1292	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Erythrobasidiales_1	Erythrobasidiales_fam_incertae_sedis_1	Sakaguchia_1	Sakaguchia lamellibrachiae 
+OTU_1293	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae		
+OTU_1294	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1295	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1	Scytalidium_1	
+OTU_1296	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Septoriella	Septoriella hirta 
+OTU_1297	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_1298	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Rhynchogastremataceae_1	Papiliotrema_1	Papiliotrema fusca 
+OTU_1299	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1300	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Claroideoglomeraceae	Claroideoglomus_1	Claroideoglomus claroideum 
+OTU_1301	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1302	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Gigasporales_1	Gigasporaceae_1	Scutellospora_1	Scutellospora calospora 
+OTU_1303	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Sporormiaceae_1	Westerdykella_1	Westerdykella sp  
+OTU_1304	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Cystobasidiales	Cystobasidiaceae	Cystobasidium	
+OTU_1305	Fungi_1	Ascomycota_1	Sordariomycetes_1	Microascales_1	Microascaceae_1	Cephalotrichum_1	Cephalotrichum tenuissimum 
+OTU_1306	Fungi_1	Glomeromycota_1					
+OTU_1307	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_1308	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Symmetrosporaceae_1	Symmetrospora_1		
+OTU_1309	Fungi_1	Rozellomycota_1					
+OTU_1310	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1311	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1312	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1	Coniochaetaceae_1	Coniochaeta_1	
+OTU_1313	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Cladosporiaceae_1	Cladosporium_1	Cladosporium halotolerans 
+OTU_1314	Fungi_1	Ascomycota_1	Sordariomycetes_1	Myrmecridiales_1	Myrmecridiaceae_1	Myrmecridium_1	Myrmecridium schulzeri 
+OTU_1315	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1316	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_1317	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeria_1	Phaeosphaeria typharum 	
+OTU_1318	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Niessliaceae_1	Niesslia_1	Niesslia indica 
+OTU_1319	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1320	Fungi_1	Basidiomycota_1	Microbotryomycetes_1				
+OTU_1321	Fungi						
+OTU_1322	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1323	Fungi_1	Basidiomycota_1	Exobasidiomycetes_1	Entylomatales_1	Tilletiopsis_1	Tilletiopsis washingtonensis 	
+OTU_1324	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1325	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Ascochyta_1	Ascochyta medicaginicola var. macrospora 
+OTU_1326	Fungi						
+OTU_1327	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Filobasidiaceae_1	Filobasidium_1	Filobasidium floriforme 
+OTU_1328	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Sclerotiniaceae_1		
+OTU_1329	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1330	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	
+OTU_1331	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1	Coniochaetaceae_1	Coniochaeta_1	
+OTU_1332	Fungi	Ascomycota					
+OTU_1333	Fungi_1	Rozellomycota_1					
+OTU_1334	Fungi_1	Monoblepharomycota_1	Monoblepharidomycetes_1	Monoblepharidales_1			
+OTU_1335	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Cucurbitariaceae_1	Pyrenochaeta_1	Pyrenochaeta sp  
+OTU_1336	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1337	Fungi_1	Chytridiomycota_1	Gs13_1				
+OTU_1338	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1	Coniochaetaceae_1	Coniochaeta_1	
+OTU_1339	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1340	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Tumenectria_1	Tumenectria laetidisca 
+OTU_1341	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Neoceratosperma_1	Neoceratosperma yunnanensis 
+OTU_1342	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Teratosphaeriaceae_1	Devriesia_1	Devriesia americana 
+OTU_1343	Fungi_1	Ascomycota_1	Helotiales_fam_incertae_sedis_1	Cryptocline_1	Cryptocline sp  		
+OTU_1344	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Morosphaeriaceae_1	Acrocalymma_1	
+OTU_1345	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_1346	Fungi	Basidiomycota	Microbotryomycetes_1				
+OTU_1347	Fungi_1	Basidiomycota_1					
+OTU_1348	Fungi_1	Rozellomycota					
+OTU_1349	Fungi						
+OTU_1350	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1			
+OTU_1351	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1			
+OTU_1352	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Myrothecium_1	Myrothecium verrucaria 
+OTU_1353	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1354	Fungi						
+OTU_1355	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1			
+OTU_1356	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Cyphellophoraceae_1	Cyphellophora_1	
+OTU_1357	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Striatibotrys_1	Striatibotrys eucylindrospora 
+OTU_1358	Fungi_1	Chytridiomycota_1					
+OTU_1359	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus sp  
+OTU_1360	Fungi	Ascomycota					
+OTU_1361	Fungi_1	Chytridiomycota_1					
+OTU_1362	Fungi_1	Basidiobolomycota_1	Basidiobolomycetes_1	Basidiobolales_1			
+OTU_1363	Fungi	Ascomycota					
+OTU_1364	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1365	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1			
+OTU_1366	Fungi_1	Monoblepharomycota_1	Sanchytriomycetes_1	Sanchytriales_1	Sanchytriaceae_1		
+OTU_1367	Fungi	Basidiomycota					
+OTU_1368	Fungi_1	Ascomycota_1	Dothideomycetes_1	Venturiales_1	Venturiaceae_1	Venturia_1	
+OTU_1369	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1	Coniochaetaceae_1	Coniochaeta	Coniochaeta baysunika 
+OTU_1370	Fungi_1	Ascomycota_1					
+OTU_1371	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Sporobolomyces_1	Sporobolomyces patagonicus 
+OTU_1372	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Biatriosporaceae	Biatriospora	Biatriospora sp  
+OTU_1373	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_1374	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1	Debaryomycetaceae_1	Meyerozyma_1	Meyerozyma caribbica 
+OTU_1375	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1	Exidiaceae_1		
+OTU_1376	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Onygenales_1			
+OTU_1377	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_1378	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1		
+OTU_1379	Fungi_1	Chytridiomycota_1					
+OTU_1380							
+OTU_1381	Fungi	Ascomycota_1					
+OTU_1382	Fungi_1	Basidiomycota_1	Exobasidiomycetes_1	Exobasidiales_1	Cryptobasidiaceae_1	Acaromyces_1	Acaromyces ingoldii 
+OTU_1383	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Leptosphaeriaceae_1	Plenodomus_1	Plenodomus sp  
+OTU_1384	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Aspergillus_1	Aspergillus ruber 
+OTU_1385	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1386	Fungi_1	Monoblepharomycota_1	Sanchytriomycetes_1	Sanchytriales_1	Sanchytriaceae_1	Sanchytrium	Sanchytrium sp  
+OTU_1387	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_1388	Fungi_1	Olpidiomycota_1	Olpidiomycetes_1	Olpidiales_1	Olpidiaceae_1	Olpidium_1	Olpidium brassicae 
+OTU_1389	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1390	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Volutella_1	
+OTU_1391	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae	Serendipita	
+OTU_1392	Fungi_1	Rozellomycota_1					
+OTU_1393	Fungi_1	Ascomycota_1	Sordariomycetes_1	Branch06_1			
+OTU_1394	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1	Rhizophydiaceae_1	Rhizophydium_1	
+OTU_1395	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae_1		
+OTU_1396	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1			
+OTU_1397	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1398	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1399	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	
+OTU_1400	Fungi	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1		
+OTU_1401	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium herquei 
+OTU_1402	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Filobasidiaceae_1	Goffeauzyma_1	Goffeauzyma gastrica 
+OTU_1403	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Cladosporiaceae_1	Cladosporium_1	Cladosporium velox 
+OTU_1404	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	Fusarium buharicum 
+OTU_1405	Fungi_1	Kickxellomycota_1	Kickxellomycetes_1	Kickxellales_1	Kickxellaceae	Ramicandelaber_1	
+OTU_1406	Fungi	Ascomycota	Sordariomycetes	Melanosporales			
+OTU_1407	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_1408	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_1409	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Microdochiaceae_1	Microdochium_1	Microdochium sp  
+OTU_1410	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1			
+OTU_1411	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1			
+OTU_1412	Fungi_1	Ascomycota	Dothideomycetes_1	Pleosporales_1	Tetraplosphaeriaceae_1		
+OTU_1413	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Cystobasidiales_1	Cystobasidiaceae_1	Cystobasidium_1	Cystobasidium slooffiae 
+OTU_1414	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1415	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Bolbitiaceae_1	Agrocybe_1	Agrocybe pediades 
+OTU_1416	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_1417	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1418	Protista_1						
+OTU_1419	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1			
+OTU_1420	Fungi_1	Basidiomycota_1	Malasseziomycetes_1	Malasseziales_1	Malasseziaceae_1	Malassezia_1	Malassezia restricta 
+OTU_1421	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Valsaceae_1	Cytospora	Cytospora sp  
+OTU_1422	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1423							
+OTU_1424	Fungi_1	Rozellomycota_1					
+OTU_1425							
+OTU_1426	Fungi						
+OTU_1427	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Onygenales_1			
+OTU_1428	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Pleurotaceae_1	Pleurotus_1	Pleurotus citrinopileatus 
+OTU_1429	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1		
+OTU_1430	Fungi_1						
+OTU_1431	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1	Acremonium_1	Acremonium rutilum 
+OTU_1432	Fungi						
+OTU_1433							
+OTU_1434	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1	Thanatephorus_1	Thanatephorus sp  
+OTU_1435	Fungi_1	Basidiomycota_1					
+OTU_1436	Fungi						
+OTU_1437	Rhizaria_1	Cercozoa_1					
+OTU_1438	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Cystobasidiales			
+OTU_1439	Fungi_1	Chytridiomycota_1					
+OTU_1440	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1441							
+OTU_1442	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1443	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1444	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraphoma_1	Paraphoma pye 
+OTU_1445	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Ophiocordycipitaceae_1	Purpureocillium_1	Purpureocillium lilacinum 
+OTU_1446	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Phoma	Phoma sp  
+OTU_1447	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_1448	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	Claroideoglomus lamellosum 
+OTU_1449	Fungi	Ascomycota	Sordariomycetes				
+OTU_1450	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Gnomoniaceae_1	Ophiognomonia_1	
+OTU_1451	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1			
+OTU_1452	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Diaporthaceae_1	Diaporthe_1	
+OTU_1453	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Filobasidiaceae_1	Filobasidium_1	Filobasidium sp  
+OTU_1454	Fungi_1	Ascomycota_1	Dothideomycetes_1	Venturiales_1	Venturiaceae_1	Venturia_1	
+OTU_1455	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Sclerotiniaceae_1	Sclerencoelia_1	Sclerencoelia fraxinicola 
+OTU_1456	Fungi						
+OTU_1457	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Phialophora_1	Phialophora livistonae 
+OTU_1458	Fungi_1	Rozellomycota_1					
+OTU_1459	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Microdochiaceae_1	Microdochium_1	Microdochium seminicola 
+OTU_1460	Fungi_1						
+OTU_1461	Fungi	Ascomycota					
+OTU_1462	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Meruliaceae_1	Crustodontia_1	Crustodontia chrysocreas 
+OTU_1463	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1464	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1465	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_1466	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1467	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Conlarium_1	Conlarium sp  	
+OTU_1468	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1469	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1			
+OTU_1470	Fungi_1	Basidiomycota_1	Geminibasidiomycetes_1	Geminibasidiales_1	Geminibasidiaceae_1	Geminibasidium_1	
+OTU_1471	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Verticimonosporium_1	Verticimonosporium diffractum 
+OTU_1472	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1		
+OTU_1473	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1474	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_1475	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Diatrypaceae_1	Peroneutypa	Peroneutypa scoparia 
+OTU_1476	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Setomelanomma_1	Setomelanomma sp  
+OTU_1477	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1478	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella pseudozygospora 
+OTU_1479	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Corticiales_1	Corticiaceae_1	Limonomyces_1	Limonomyces roseipellis 
+OTU_1480	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1			
+OTU_1481	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_1482	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1		
+OTU_1483	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1484	Fungi	Ascomycota					
+OTU_1485	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	
+OTU_1486	Fungi						
+OTU_1487	Fungi_1	Ascomycota_1	Pezizomycotina_cls_incertae_sedis_1	Pezizomycotina_ord_incertae_sedis_1	Pezizomycotina_fam_incertae_sedis_1	Hymenula_1	Hymenula cerealis 
+OTU_1488	Fungi						
+OTU_1489	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1490							
+OTU_1491	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Hymenochaetales_1	Schizoporaceae_1	Hyphodontia_1	Hyphodontia arguta 
+OTU_1492	Fungi_1						
+OTU_1493	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1494	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Agaricaceae_1	Leucoagaricus_1	Leucoagaricus americanus 
+OTU_1495	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Hannaella_1	Hannaella sinensis 
+OTU_1496							
+OTU_1497	Rhizaria_1	Cercozoa_1	Saccharomycetes				
+OTU_1498	Rhizaria_1	Cercozoa_1					
+OTU_1499	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_1500							
+OTU_1501	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1	Orbilia_1	Orbilia sp  
+OTU_1502	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_1503	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Cladophialophora_1	
+OTU_1504	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1	Candida_1	Candida tropicalis 	
+OTU_1505	Fungi_1	Neocallimastigomycota_1	Neocallimastigomycetes_1	Neocallimastigales_1	Neocallimastigaceae_1		
+OTU_1506	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1507	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Schizophyllaceae_1	Schizophyllum_1	Schizophyllum commune 
+OTU_1508	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lophiostomataceae_1	Sigarispora	
+OTU_1509	Fungi_1						
+OTU_1510	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Phialophora_1	Phialophora hyalina 
+OTU_1511	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1512	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Ophiocordycipitaceae_1	Haptocillium_1	
+OTU_1513	Fungi_1	Basidiomycota_1	Tremellomycetes_1				
+OTU_1514	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	
+OTU_1515	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_1516	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Dichotomopilus	Dichotomopilus indicus 
+OTU_1517	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Cladorrhinum_1	
+OTU_1518	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Polyporaceae_1	Trametes_1	Trametes versicolor 
+OTU_1519	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales_1	Chaetosphaeriaceae_1	Pseudolachnea	Pseudolachnea fraxini 
+OTU_1520	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1			
+OTU_1521	Fungi_1	Ascomycota_1	Helotiaceae_1	Scytalidium_1	Scytalidium circinatum 		
+OTU_1522	Fungi_1	Chytridiomycota_1	Rhizophlyctidomycetes_1	Rhizophlyctidales_1	Rhizophlyctidaceae_1	Rhizophlyctis_1	Rhizophlyctis rosea 
+OTU_1523	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales_1	Glomeraceae_1		
+OTU_1524	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales_1	Glomeraceae_1		
+OTU_1525	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae	Claroideoglomus	Claroideoglomus claroideum 
+OTU_1526	Fungi						
+OTU_1527	Fungi						
+OTU_1528	Fungi_1	Chytridiomycota_1					
+OTU_1529							
+OTU_1530	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1	Acremonium_1	Acremonium pilosum 
+OTU_1531	Fungi_1						
+OTU_1532	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_1533	Fungi	Glomeromycota	Glomeromycetes	Glomerales_1			
+OTU_1534	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Microbotryomycetes_ord_incertae_sedis_1	Chrysozymaceae_1	Udeniozyma_1	Udeniozyma sp  
+OTU_1535	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Ilyonectria	
+OTU_1536	Fungi	Basidiomycota					
+OTU_1537	Fungi_1	Ascomycota_1	Sordariomycetes	Sordariales_1	Sordariaceae_1		
+OTU_1538	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	
+OTU_1539	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Russulales_1	Stereaceae_1	Stereum_1	Stereum complicatum 
+OTU_1540	Fungi						
+OTU_1541	Fungi_1	Ascomycota_1	Sordariomycetes_1	Glomerellales_1	Glomerellaceae_1	Colletotrichum_1	Colletotrichum orbiculare 
+OTU_1542	Fungi						
+OTU_1543	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae		
+OTU_1544	Fungi	Glomeromycota	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	
+OTU_1545	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Kamienskia_1	Kamienskia divaricata 
+OTU_1546	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_1547	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_1548	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales_1	Chaetosphaeriaceae_1	Sporoschisma_1	Sporoschisma sp  
+OTU_1549	Fungi	Ascomycota					
+OTU_1550	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1			
+OTU_1551							
+OTU_1552	Fungi						
+OTU_1553	Fungi_1	Ascomycota_1	Dothideomycetes_1	Myriangiales_1	Myriangiaceae_1	Anhellia_1	Anhellia nectandrae 
+OTU_1554	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_1555	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1556	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Cystofilobasidiales_1	Mrakiaceae_1	Itersonilia_1	Itersonilia perplexans 
+OTU_1557	Fungi_1						
+OTU_1558	Rhizaria_1	Cercozoa_1					
+OTU_1559	Fungi_1						
+OTU_1560	Fungi_1						
+OTU_1561	Fungi	Ascomycota					
+OTU_1562	Fungi_1	Ascomycota_1	Sordariomycetes_1	Boliniales_1	Boliniales_fam_incertae_sedis_1		
+OTU_1563	Fungi_1						
+OTU_1564	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Neodevriesiaceae_1	Neodevriesia_1	Neodevriesia poagena 
+OTU_1565	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Cyphellophoraceae_1	Cyphellophora_1	
+OTU_1566	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae	Paraglomus	
+OTU_1567	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	
+OTU_1568	Fungi_1						
+OTU_1569	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Curvularia_1	Curvularia hawaiiensis 
+OTU_1570							
+OTU_1571	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_1572	Fungi_1	Ascomycota_1					
+OTU_1573	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Leptospora_1	
+OTU_1574	Fungi	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	
+OTU_1575	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Ganodermataceae		
+OTU_1576	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus occultum 
+OTU_1577	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_1578	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1579	Fungi_1	Basidiomycota_1	Pucciniomycetes_1	Platygloeales_1	Eocronartiaceae_1	Eocronartium_1	
+OTU_1580	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Amorosiaceae	Angustimassarina_1	
+OTU_1581	Fungi_1	Ascomycota_1	Sordariomycetes_1	Glomerellales_1	Plectosphaerellaceae_1	Gibellulopsis_1	Gibellulopsis sp  
+OTU_1582	Fungi_1	Rozellomycota_1					
+OTU_1583	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1584	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1	Ramulariopsis	Ramulariopsis gossypii 
+OTU_1585	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lentitheciaceae_1		
+OTU_1586	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1587	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1588	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_1589	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae		
+OTU_1590	Fungi_1	Rozellomycota_1					
+OTU_1591	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Bionectriaceae_1	Clonostachys_1	
+OTU_1592	Fungi_1						
+OTU_1593	Fungi_1						
+OTU_1594	Fungi_1						
+OTU_1595	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Chaetothyriaceae_1		
+OTU_1596	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1597	Fungi_1						
+OTU_1598	Fungi						
+OTU_1599	Fungi_1						
+OTU_1600	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Echria	
+OTU_1601	Fungi_1	Basidiomycota_1					
+OTU_1602							
+OTU_1603	Fungi_1	Ascomycota_1	Leotiomycetes_1	Rhytismatales_1	Rhytismataceae_1	Coccomyces	Coccomyces strobi 
+OTU_1604	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Aspergillus_1	Aspergillus clavatus 
+OTU_1605	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1606	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1607	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1608	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Teichosporaceae_1	Teichospora_1	Teichospora mariae 
+OTU_1609	Fungi						
+OTU_1610	Fungi_1	Ascomycota_1					
+OTU_1611	Fungi_1	Basidiomycota_1	Agaricostilbomycetes_1	Agaricostilbales_1	Kondoaceae_1	Kondoa_1	
+OTU_1612	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales_1			
+OTU_1613	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Bionectriaceae_1		
+OTU_1614	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Gigasporales_1	Gigasporaceae_1	Scutellospora	Scutellospora sp  
+OTU_1615	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1				
+OTU_1616	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	Claroideoglomus sp  
+OTU_1617	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Pyronemataceae_1	Wilcoxina_1	Wilcoxina mikolae 
+OTU_1618	Fungi_1	Rozellomycota_1					
+OTU_1619	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	Claroideoglomus claroideum 
+OTU_1620	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraphoma_1	
+OTU_1621	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Hyaloscyphaceae_1	Lachnum_1	
+OTU_1622	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_1623	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1624	Fungi_1	Basidiobolomycota_1	Basidiobolomycetes	Basidiobolales			
+OTU_1625	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_1626	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Ascobolaceae_1	Ascobolus_1	
+OTU_1627	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Phialomyces macrosporus 	
+OTU_1628	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Tricholomataceae_1		
+OTU_1629	Fungi_1	Glomeromycota_1	Glomeromycetes				
+OTU_1630	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Cladorrhinum_1	
+OTU_1631	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Claroideoglomeraceae		
+OTU_1632	Fungi						
+OTU_1633	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales	Glomeraceae		
+OTU_1634	Fungi_1	Ascomycota_1	Sordariomycetes_1	Ophiostomatales_1	Ophiostomataceae_1	Sporothrix_1	Sporothrix chilensis 
+OTU_1635	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1636	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	
+OTU_1637	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_1638	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Phaeopoacea_1	Phaeopoacea sp  
+OTU_1639	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Sarocladium_1	Sarocladium subulatum 	
+OTU_1640	Fungi_1	Mucoromycota_1	Mucoromycetes_1	Mucorales_1	Mucoraceae_1	Mucor_1	Mucor circinelloides 
+OTU_1641	Fungi	Ascomycota	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraphoma_1	
+OTU_1642	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Leucosporidiales_1	Leucosporidiaceae_1	Leucosporidium_1	Leucosporidium sp  
+OTU_1643	Fungi						
+OTU_1644	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Erythrobasidiales_1	Erythrobasidiaceae_1	Erythrobasidium_1	Erythrobasidium yunnanense 
+OTU_1645	Fungi_1	Ascomycota_1	Dothideomycetes				
+OTU_1646	Fungi_1	Rozellomycota_1					
+OTU_1647	Fungi	Ascomycota					
+OTU_1648	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Pseudocosmospora_1	Pseudocosmospora vilior 
+OTU_1649	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Psathyrellaceae_1	Psathyrella_1	Psathyrella sp  
+OTU_1650	Fungi_1	Basidiomycota_1	Atractiellomycetes_1	Atractiellales_1	Helicogloea_1		
+OTU_1651	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_Incertae_sedis_1	Sarocladium_1	
+OTU_1652	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1			
+OTU_1653	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Cordycipitaceae_1	Beauveria_1	Beauveria pseudobassiana 
+OTU_1654	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Vibrisseaceae_1	Phialocephala_1	Phialocephala bamuru 
+OTU_1655	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Meruliaceae_1	Neofavolus_1	Neofavolus sp  
+OTU_1656	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1657	Fungi_1	Ascomycota_1	Dothideomycetes_1	Venturiales_1	Venturiaceae_1	Venturia_1	
+OTU_1658	Fungi_1	Basidiomycota_1	Agaricostilbomycetes_1	Agaricostilbales_1			
+OTU_1659	Fungi_1	Ascomycota_1	Sordariomycetes_1	Magnaporthales_1	Magnaporthaceae_1	Magnaporthe_1	Magnaporthe grisea 
+OTU_1660	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lophiostomataceae_1	Biappendiculispora	Biappendiculispora sp  
+OTU_1661	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1662	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Diatrypaceae_1	Diatrype_1	Diatrype sp  
+OTU_1663	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1664	Fungi						
+OTU_1665	Ichthyosporia_1	Ichthyosporea_1					
+OTU_1666	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Humicola	Humicola olivacea 
+OTU_1667	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1		
+OTU_1668	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Russulales_1	Peniophoraceae_1	Peniophora_1	
+OTU_1669	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	Diversispora epigaea 
+OTU_1670	Fungi_1						
+OTU_1671	Fungi						
+OTU_1672	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus	
+OTU_1673	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Cladosporiaceae_1	Rachicladosporium_1	
+OTU_1674	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1675	Fungi_1	Ascomycota_1	Leotiomycetes_1	Erysiphales_1	Erysiphaceae_1	Blumeria_1	Blumeria graminis 
+OTU_1676	Fungi_1	Ascomycota_1					
+OTU_1677	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Fomitopsidaceae_1		
+OTU_1678	Fungi_1	Basidiomycota_1					
+OTU_1679	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1	Ceratobasidium_1	Ceratobasidium sp  
+OTU_1680	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lophiostomataceae	Lophiostoma	
+OTU_1681	Fungi						
+OTU_1682	Viridiplantae_1	Anthophyta_1	Monocotyledonae_1	Poales_1	Poaceae_1	Panicum	
+OTU_1683	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Rhynchogastremataceae_1	Papiliotrema_1	
+OTU_1684	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Phaeosphaeria	
+OTU_1685	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1686	Fungi_1	Chytridiomycota_1					
+OTU_1687							
+OTU_1688	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1689	Fungi_1	Chytridiomycota_1					
+OTU_1690	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Mycosphaerellaceae_1		
+OTU_1691	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Hymenochaetales_1	Schizoporaceae_1	Hyphodontia_1	
+OTU_1692	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Dichotomopilus_1	Dichotomopilus erectus 
+OTU_1693	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1694	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1695	Fungi_1						
+OTU_1696	Fungi	Ascomycota					
+OTU_1697	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Acremonium sp  		
+OTU_1698	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Trechisporales_1	Hydnodontaceae_1	Subulicystidium_1	
+OTU_1699	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Alternaria_1	
+OTU_1700	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1	Metschnikowiaceae_1		
+OTU_1701	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus irregularis 
+OTU_1702	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Xylariaceae_1	Lopadostoma_1	
+OTU_1703	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Cucurbitariaceae	Pyrenochaeta	Pyrenochaeta sp  
+OTU_1704	Fungi_1	Chytridiomycota_1					
+OTU_1705							
+OTU_1706	Rhizaria_1	Cercozoa_1					
+OTU_1707	Fungi						
+OTU_1708	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1			
+OTU_1709	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	
+OTU_1710	Fungi_1						
+OTU_1711	Fungi_1						
+OTU_1712	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_1713	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Hymenochaetales_1	Schizoporaceae_1	Alutaceodontia_1	Alutaceodontia alutacea 
+OTU_1714	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1			
+OTU_1715	Fungi_1						
+OTU_1716	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Cystobasidiales_1	Cystobasidiaceae_1	Cystobasidium_1	
+OTU_1717	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Pyronemataceae_1	Scutellinia	
+OTU_1718	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1719	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Gnomoniaceae_1		
+OTU_1720	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Diaporthaceae_1	Diaporthe_1	
+OTU_1721							
+OTU_1722	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Didymella_1	
+OTU_1723	Fungi_1	Ascomycota_1	Herpotrichiellaceae_1				
+OTU_1724	Ichthyosporia_1	Ichthyosporia_phy_incertae_sedis_1	Ichthyosporea_1				
+OTU_1725	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1726	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1			
+OTU_1727	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Steccherinaceae_1	Steccherinum_1	Steccherinum sp  
+OTU_1728	Fungi	Ascomycota					
+OTU_1729	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1730	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1731	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_1732	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	Diversispora celata 
+OTU_1733	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1734	Fungi						
+OTU_1735	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1736	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Cystobasidiales_1	Cystobasidiaceae_1	Cystobasidium_1	Cystobasidium pinicola 
+OTU_1737	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Sarocladium_1	Sarocladium bacillisporum 	
+OTU_1738	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1			
+OTU_1739	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Gigasporales_1	Gigasporaceae_1	Scutellospora_1	
+OTU_1740	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_1741	Fungi_1	Chytridiomycota_1	Rhizophlyctidomycetes_1	Rhizophlyctidales_1	Rhizophlyctidaceae_1	Rhizophlyctis_1	Rhizophlyctis rosea 
+OTU_1742	Fungi						
+OTU_1743	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1744	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Leptosphaeriaceae_1		
+OTU_1745	Fungi						
+OTU_1746	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1747	Fungi_1	Chytridiomycota_1					
+OTU_1748	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Cordycipitaceae_1	Beauveria_1	
+OTU_1749	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus brasilianum 
+OTU_1750	Fungi	Glomeromycota	Glomeromycetes	Glomerales			
+OTU_1751	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1752	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Dioszegia_1	Dioszegia athyri 
+OTU_1753	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	Exophiala bonariae 
+OTU_1754	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	
+OTU_1755	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricomycetes_ord_incertae_sedis_1	Agaricomycetes_fam_incertae_sedis_1	Xenasmatella_1	Xenasmatella ardosiaca 
+OTU_1756	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Clavariaceae_1		
+OTU_1757	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Achroiostachys_1	Achroiostachys levigata 
+OTU_1758	Fungi_1	Ascomycota_1					
+OTU_1759	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Gnomoniaceae_1	Plagiostoma_1	
+OTU_1760							
+OTU_1761	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Trichosporonales_1	Tetragoniomycetaceae_1		
+OTU_1762	Fungi_1	Glomeromycota	Archaeosporomycetes_1	Archaeosporales_1			
+OTU_1763	Fungi						
+OTU_1764	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Dominikia_1	Dominikia sp  
+OTU_1765	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1766	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1767	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Gnomoniaceae_1		
+OTU_1768	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Minimedusa_1	Minimedusa polyspora 	
+OTU_1769	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales	Pervetustaceae	Pervetustus	
+OTU_1770	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Rhodotorula_1	
+OTU_1771	Fungi_1	Ascomycota_1	Sordariomycetes_1	Myrmecridiales_1	Myrmecridiaceae_1	Myrmecridium_1	
+OTU_1772	Fungi_1	Basidiomycota_1					
+OTU_1773	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Geastrales_1	Sphaerobolaceae_1	Sphaerobolus_1	Sphaerobolus ingoldii 
+OTU_1774	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Diatrypaceae_1	Eutypella	
+OTU_1775	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Teratosphaeriaceae_1		
+OTU_1776	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Ophiocordycipitaceae_1	Ophiocordyceps_1	Ophiocordyceps arborescens 
+OTU_1777	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1		
+OTU_1778	Fungi	Basidiomycota					
+OTU_1779	Fungi_1	Ascomycota_1					
+OTU_1780	Fungi_1	Rozellomycota_1	Branch02_1				
+OTU_1781	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	Glomus macrocarpum 
+OTU_1782	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_1783	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_1784	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_1785	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1786	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Phaeosphaeria_1	Phaeosphaeria sp  
+OTU_1787	Fungi_1	Ascomycota	Sordariomycetes_1	Sordariales_1			
+OTU_1788	Fungi_1	Ascomycota_1	Sordariomycetes_1	Magnaporthales_1	Magnaporthaceae_1	Magnaporthiopsis_1	
+OTU_1789	Fungi_1	Rozellomycota					
+OTU_1790	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Cystofilobasidiales_1	Mrakiaceae_1	Mrakia_1	Mrakia frigida 
+OTU_1791	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_1792							
+OTU_1793	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1	Arthrobotrys_1	Arthrobotrys conoides 
+OTU_1794	Fungi_1	Rozellomycota_1					
+OTU_1795	Fungi						
+OTU_1796	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Trichocomaceae_1	Talaromyces_1	
+OTU_1797	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1			
+OTU_1798	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Filobasidiaceae_1	Naganishia_1	Naganishia albida 
+OTU_1799	Fungi						
+OTU_1800	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1		
+OTU_1801	Fungi_1						
+OTU_1802	Fungi_1	Blastocladiomycota_1	Blastocladiomycetes_1	Blastocladiales_1	Blastocladiaceae_1	Allomyces_1	Allomyces arbusculus 
+OTU_1803	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_1804	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Trichocomaceae_1	Talaromyces_1	Talaromyces verruculosus 
+OTU_1805	Fungi						
+OTU_1806	Fungi_1						
+OTU_1807	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1808	Fungi_1	Basidiomycota	Agaricostilbomycetes	Agaricostilbales			
+OTU_1809	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1810	Fungi						
+OTU_1811	Fungi						
+OTU_1812	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_1813	Fungi						
+OTU_1814	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	
+OTU_1815	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1			
+OTU_1816	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1817	Fungi_1	Ascomycota_1	Leotiomycetes_1				
+OTU_1818	Fungi						
+OTU_1819	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales	Glomeraceae		
+OTU_1820	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Peniophoraceae_1	Peniophora_1		
+OTU_1821	Fungi_1						
+OTU_1822	Fungi_1	Ascomycota_1	Sordariomycetes				
+OTU_1823	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Erythrobasidiales_1	Erythrobasidiales_fam_incertae_sedis_1	Sakaguchia_1	Sakaguchia sp  
+OTU_1824	Fungi						
+OTU_1825							
+OTU_1826	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus sp  
+OTU_1827	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1828	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1829	Fungi						
+OTU_1830	Fungi_1	Glomeromycota_1	Archaeosporomycetes	Archaeosporales	Archaeosporaceae		
+OTU_1831	Fungi_1						
+OTU_1832	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	Fusarium acutatum 
+OTU_1833	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1	Articulospora_1	
+OTU_1834	Fungi_1	Ascomycota_1	Laboulbeniomycetes_1	Pyxidiophorales_1			
+OTU_1835	Fungi_1	Glomeromycota_1					
+OTU_1836	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1837	Fungi_1	Basidiomycota_1	Agaricomycetes_1				
+OTU_1838	Rhizaria_1	Cercozoa_1	Cercozoa_cls_Incertae_sedis_1	Thaumatomonadida_1	Thaumatomastigidae_1	Thaumatomonas_1	
+OTU_1839	Fungi_1	Ascomycota_1	Dothideomycetes_1				
+OTU_1840	Fungi						
+OTU_1841	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_1842	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	
+OTU_1843	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales	Didymosphaeriaceae_1	Didymosphaeria_1	Didymosphaeria sp  
+OTU_1844	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Russulales_1	Stereaceae_1	Aleurodiscus_1	
+OTU_1845	Fungi_1	Ascomycota_1	Dothideomycetes_1				
+OTU_1846	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Poaceicola_1	
+OTU_1847	Fungi	Ascomycota	Leotiomycetes				
+OTU_1848	Fungi						
+OTU_1849	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Cladorrhinum	
+OTU_1850	Fungi_1	Basidiomycota	Cystobasidiomycetes_1	Cystobasidiales_1	Cystobasidiaceae_1		
+OTU_1851	Fungi						
+OTU_1852	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	Exophiala equina 
+OTU_1853	Fungi						
+OTU_1854	Fungi						
+OTU_1855	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Ganodermataceae_1		
+OTU_1856	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Kamienskia_1	
+OTU_1857	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1858	Fungi_1	Basidiomycota_1	Exobasidiomycetes_1	Tilletiales_1	Tilletiaceae_1	Tilletia_1	Tilletia maclaganii 
+OTU_1859	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1860	Fungi_1	Chytridiomycota_1					
+OTU_1861	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Sistotrema_1	Sistotrema sp  	
+OTU_1862	Fungi	Basidiomycota	Agaricomycetes				
+OTU_1863	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Alternaria_1	
+OTU_1864	Fungi						
+OTU_1865	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Microdominikia	
+OTU_1866	Fungi_1	Rozellomycota_1					
+OTU_1867	Fungi_1	Ascomycota_1	Dothideomycetes_1	Botryosphaeriales_1	Botryosphaeriaceae_1	Macrophomina_1	Macrophomina pseudophaseolina 
+OTU_1868	Fungi_1	Chytridiomycota_1					
+OTU_1869	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1			
+OTU_1870	Fungi_1	Ascomycota_1	Sordariomycetes_1	Branch06_1			
+OTU_1871	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1	Acremonium_1	Acremonium biseptum 
+OTU_1872							
+OTU_1873	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1		
+OTU_1874	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_1875	Fungi_1	Monoblepharomycota_1	Sanchytriomycetes_1	Sanchytriales_1	Sanchytriaceae_1		
+OTU_1876	Fungi	Glomeromycota_1	Glomeromycetes_1	Glomerales_1			
+OTU_1877	Fungi_1	Basidiomycota_1					
+OTU_1878	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Sarocladium_1	Sarocladium sp  	
+OTU_1879	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	Exophiala equina 
+OTU_1880	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Inocybaceae_1	Inocybe_1	Inocybe sp  
+OTU_1881	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_1882	Fungi_1	Rozellomycota_1					
+OTU_1883	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1884	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	Acaulosporaceae		
+OTU_1885	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Trechisporales_1	Hydnodontaceae_1	Trechispora_1	Trechispora sp  
+OTU_1886	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Sporobolomyces_1	Sporobolomyces ruberrimus 
+OTU_1887	Fungi_1	Basidiomycota_1	Atractiellomycetes_1	Atractiellales_1	Hoehnelomycetaceae_1		
+OTU_1888	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Rhynchogastremataceae_1	Papiliotrema_1	Papiliotrema nemorosus 
+OTU_1889	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	
+OTU_1890	Fungi_1						
+OTU_1891	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1			
+OTU_1892	Fungi	Ascomycota					
+OTU_1893	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1894	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Didymella_1	
+OTU_1895	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1896	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1	Waitea_1	Waitea circinata 
+OTU_1897	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_1898	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_1899	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Ganodermataceae_1	Perenniporia_1	Perenniporia subacida 
+OTU_1900	Fungi	Chytridiomycota_1					
+OTU_1901	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1902	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales			
+OTU_1903	Fungi_1	Ascomycota_1	Sordariomycetes_1	Cryptosphaeria_1	Cryptosphaeria sp  		
+OTU_1904	Fungi_1	Ascomycota_1					
+OTU_1905	Fungi						
+OTU_1906	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Phanerochaetaceae_1	Hyphodermella_1	Hyphodermella rosae 
+OTU_1907	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus occultum 
+OTU_1908	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1909	Fungi						
+OTU_1910	Fungi						
+OTU_1911	Fungi	Basidiomycota					
+OTU_1912	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1		
+OTU_1913	Viridiplantae_1	Anthophyta_1	Monocotyledonae_1	Poales_1	Poaceae_1		
+OTU_1914	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1915	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Bolbitiaceae_1	Agrocybe_1	Agrocybe vervacti 
+OTU_1916	Fungi_1	Ascomycota_1	Sordariomycetes_1	Microascales_1	Microascaceae_1	Acaulium_1	Acaulium sp  
+OTU_1917	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	Vishniacozyma dimennae 
+OTU_1918	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus irregularis 
+OTU_1919	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1920	Viridiplantae_1	Anthophyta_1	Monocotyledonae_1	Poales_1	Poaceae_1		
+OTU_1921	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Cystobasidiales_1	Cystobasidiaceae_1		
+OTU_1922	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_1923							
+OTU_1924	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_1925	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Cadophora_1	Cadophora orchidicola 	
+OTU_1926	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Kamienskia_1	
+OTU_1927							
+OTU_1928	Fungi	Basidiomycota	Agaricomycetes	Agaricales_1			
+OTU_1929	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Fomitopsidaceae_1	Postia_1	
+OTU_1930	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lophiostomataceae_1		
+OTU_1931	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_1932	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Leptospora_1	
+OTU_1933	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Periconiaceae_1	Periconia_1	Periconia homothallica 
+OTU_1934	Rhizaria_1	Cercozoa_1					
+OTU_1935	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1			
+OTU_1936	Fungi_1	Ascomycota_1	Sordariomycetes_1	Glomerellales_1	Glomerellaceae_1	Colletotrichum_1	
+OTU_1937	Fungi_1	Glomeromycota_1					
+OTU_1938	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Diaporthaceae_1	Phaeocytostroma ambiguum 	
+OTU_1939	Fungi_1						
+OTU_1940	Fungi						
+OTU_1941	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_1942	Fungi	Basidiomycota	Agaricomycetes	Auriculariales			
+OTU_1943	Fungi						
+OTU_1944	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Erythrobasidiales_1	Erythrobasidiaceae_1	Erythrobasidium_1	Erythrobasidium hasegawianum 
+OTU_1945	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Russulales_1	Stereaceae_1	Xylobolus_1	Xylobolus frustulatus 
+OTU_1946	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_1947	Fungi_1	Ascomycota_1	Leotiomycetes_1	Erysiphales_1	Erysiphaceae_1	Blumeria_1	Blumeria graminis 
+OTU_1948	Fungi_1	Ascomycota_1					
+OTU_1949							
+OTU_1950							
+OTU_1951	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	Neosetophoma rosigena 
+OTU_1952	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Filobasidiaceae_1	Heterocephalacria_1	Heterocephalacria sp  
+OTU_1953	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1			
+OTU_1954	Fungi_1	Basidiobolomycota_1	Basidiobolomycetes_1	Basidiobolales_1			
+OTU_1955	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	
+OTU_1956	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_1957	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Veronaea_1	Veronaea japonica 
+OTU_1958	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Pseudoophiobolus_1	Pseudoophiobolus italicus 
+OTU_1959	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	
+OTU_1960	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Septoglomus_1	Septoglomus viscosum 
+OTU_1961	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_1962	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Septoglomus_1	Septoglomus viscosum 
+OTU_1963							
+OTU_1964	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Smaragdiniseta_1	Smaragdiniseta sp  
+OTU_1965	Fungi						
+OTU_1966	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella alpina 
+OTU_1967	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1			
+OTU_1968	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1			
+OTU_1969	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1			
+OTU_1970	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1			
+OTU_1971	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1	Terramycetaceae_1	Boothiomyces_1	Boothiomyces macroporosum 
+OTU_1972							
+OTU_1973	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1	Alphamycetaceae_1	Betamyces_1	Betamyces sp  
+OTU_1974	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_1975	Fungi_1						
+OTU_1976	Fungi_1	Basidiomycota_1	Agaricostilbomycetes_1	Agaricostilbales_1	Kondoaceae_1	Kondoa_1	Kondoa sp  
+OTU_1977	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	Neosetophoma samararum 
+OTU_1978	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Trimorphomycetaceae	Saitozyma	Saitozyma sp  
+OTU_1979	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Podoscyphaceae_1	Hypochnicium_1	
+OTU_1980	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	Fusarium acutatum 
+OTU_1981	Fungi_1	Ascomycota_1					
+OTU_1982	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	
+OTU_1983	Fungi_1						
+OTU_1984	Fungi_1						
+OTU_1985	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Curvularia_1	Curvularia fallax 
+OTU_1986	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Leucosporidiales_1	Leucosporidiaceae_1	Leucosporidium_1	Leucosporidium escuderoi 
+OTU_1987	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Trichocomaceae_1	Sagenomella_1	Sagenomella striatispora 
+OTU_1988	Viridiplantae_1	Anthophyta_1	Monocotyledonae_1	Poales_1	Poaceae_1		
+OTU_1989	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_1990							
+OTU_1991	Fungi						
+OTU_1992	Fungi_1	Ascomycota_1	Dothideomycetes_1	Tubeufiales_1	Tubeufiaceae_1		
+OTU_1993	Fungi_1	Ascomycota_1	Dothideomycetes_1	Dothideales_1	Dothioraceae	Hormonema	Hormonema macrosporum 
+OTU_1994	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Striaticonidium_1	Striaticonidium brachysporum 
+OTU_1995	Fungi_1	Basidiomycota_1	Agaricomycetes_1				
+OTU_1996	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Geastrales_1	Sphaerobolaceae_1	Sphaerobolus_1	Sphaerobolus ingoldii 
+OTU_1997	Fungi						
+OTU_1998	Fungi_1	Ascomycota_1	Sordariomycetes				
+OTU_1999	Fungi						
+OTU_2000	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2001	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Phanerochaetaceae_1	Rhizochaete_1	Rhizochaete americana 
+OTU_2002	Fungi_1	Ascomycota_1					
+OTU_2003	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Lentitheciaceae_1	Keissleriella_1	
+OTU_2004	Fungi						
+OTU_2005	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Symmetrosporaceae_1	Symmetrospora_1		
+OTU_2006	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2007	Fungi_1						
+OTU_2008	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Tremellaceae_1	Cryptococcus_1	Cryptococcus aspenensis 
+OTU_2009	Fungi						
+OTU_2010	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_2011	Fungi						
+OTU_2012	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Cucurbitariaceae_1		
+OTU_2013	Fungi_1	Ascomycota	Dothideomycetes_1	Pleosporales_1	Sporormiaceae_1	Preussia_1	Preussia sp  
+OTU_2014							
+OTU_2015	Fungi_1	Ascomycota	Sordariomycetes	Sordariales_1	Lasiosphaeriaceae	Arnium_1	Arnium sp  
+OTU_2016	Fungi						
+OTU_2017	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1			
+OTU_2018	Fungi_1						
+OTU_2019	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Helotiaceae_1	Crocicreas_1	Crocicreas cyathoideum 
+OTU_2020	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Atheliales_1	Atheliaceae	Athelia_1	
+OTU_2021	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus brasilianum 
+OTU_2022							
+OTU_2023	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Sarocladium_1	Sarocladium bactrocephalum 	
+OTU_2024	Fungi_1	Chytridiomycota_1					
+OTU_2025	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_2026	Fungi_1						
+OTU_2027	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1	Coniochaetaceae_1	Coniochaeta_1	
+OTU_2028	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Aspergillus_1	Aspergillus niger 
+OTU_2029	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Trichomeriaceae_1	Knufia_1	
+OTU_2030	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Tremellodendropsidales_1			
+OTU_2031	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_2032	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1			
+OTU_2033	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	
+OTU_2034	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Melanconidaceae_1		
+OTU_2035	Fungi						
+OTU_2036	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2037	Fungi_1	Ascomycota_1	Taphrinomycetes_1	Taphrinales_1	Taphrinaceae_1	Taphrina_1	
+OTU_2038	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_2039	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2040	Fungi_1	Chytridiomycota_1	Spizellomycetes_1	Spizellomycetales_1			
+OTU_2041	Fungi_1	Ascomycota_1					
+OTU_2042	Fungi_1	Chytridiomycota_1					
+OTU_2043	Fungi_1						
+OTU_2044	Fungi_1	Glomeromycota_1					
+OTU_2045	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_2046	Fungi						
+OTU_2047	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_2048	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2049	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Melanommataceae		
+OTU_2050	Fungi_1	Basidiobolomycota_1	Basidiobolomycetes_1	Basidiobolales_1			
+OTU_2051	Fungi	Glomeromycota	Glomeromycetes_1	Glomerales_1			
+OTU_2052	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Lasiosphaeriaceae_1	Podospora_1	Podospora sp  
+OTU_2053	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Hymenochaetales_1	Schizoporaceae_1	Xylodon_1	
+OTU_2054	Fungi						
+OTU_2055	Fungi	Glomeromycota	Glomeromycetes	Glomerales			
+OTU_2056	Fungi_1	Chytridiomycota_1					
+OTU_2057	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Hymenochaetales_1	Schizoporaceae_1	Xylodon_1	Xylodon erastii 
+OTU_2058	Fungi_1						
+OTU_2059	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Melanommataceae		
+OTU_2060	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraphoma_1	Paraphoma pye 
+OTU_2061	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2062	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Russulales_1	Stereaceae_1	Stereum_1	
+OTU_2063	Fungi_1	Chytridiomycota_1	Lobulomycetes_1	Lobulomycetales_1			
+OTU_2064	Fungi_1	Ascomycota_1	Dothideomycetes_1				
+OTU_2065	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1			
+OTU_2066	Fungi_1	Ascomycota_1					
+OTU_2067	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Arxotrichum_1	
+OTU_2068	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraophiobolus_1	Paraophiobolus arundinis 
+OTU_2069	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	Neosetophoma rosigena 
+OTU_2070	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1		
+OTU_2071	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	Mortierella sp  
+OTU_2072	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2073	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	Trichoderma stellatum 
+OTU_2074	Fungi_1	Rozellomycota_1	Rozellomycotina_cls_Incertae_sedis_1	GS05_1			
+OTU_2075	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2076	Fungi						
+OTU_2077	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	Neosetophoma samararum 
+OTU_2078	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Hyphodermataceae_1	Hyphoderma_1	Hyphoderma litschaueri 
+OTU_2079							
+OTU_2080	Fungi_1	Basidiomycota_1	Pucciniomycetes_1	Platygloeales_1	Eocronartiaceae_1	Eocronartium_1	
+OTU_2081							
+OTU_2082	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Phlebia queletii 		
+OTU_2083	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1			
+OTU_2084	Fungi_1	Glomeromycota_1					
+OTU_2085	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Phallales_1	Phallaceae_1	Phallus_1	Phallus rugulosus 
+OTU_2086	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2087	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_2088	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2089	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Sordariales_fam_incertae_sedis_1	Ramophialophora_1	Ramophialophora humicola 
+OTU_2090	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_Incertae_sedis_1	Emericellopsis_1	
+OTU_2091	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Meruliaceae_1	Mycoacia_1	Mycoacia fuscoatra 
+OTU_2092	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2093	Fungi	Basidiomycota					
+OTU_2094	Fungi_1	Ascomycota_1					
+OTU_2095	Fungi	Ascomycota					
+OTU_2096	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1			
+OTU_2097	Fungi	Glomeromycota	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae		
+OTU_2098	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Cladosporiaceae_1	Rachicladosporium_1	
+OTU_2099	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae	Paraglomus	Paraglomus laccatum 
+OTU_2100	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1		
+OTU_2101	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Rhodosporidiobolus_1	Rhodosporidiobolus colostri 
+OTU_2102	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium penicillioides 
+OTU_2103	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Geastrales_1	Geastraceae_1	Geastrum_1	Geastrum saccatum 
+OTU_2104	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Malotium_1	Malotium paludosum 	
+OTU_2105	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Stachybotryaceae_1	Myrothecium_1	Myrothecium inundatum 
+OTU_2106	Fungi_1	Ascomycota_1	Sordariomycetes_1	Magnaporthales_1	Magnaporthaceae_1	Gaeumannomyces_1	Gaeumannomyces radicicola 
+OTU_2107	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2108	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymosphaeriaceae_1	Paraconiothyrium_1	Paraconiothyrium brasiliense 
+OTU_2109	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_2110	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2111	Fungi_1	Mucoromycota_1	Mucoromycotina_cls_incertae_sedis_1	Mucoromycotina_ord_incertae_sedis_1	Mucoromycotina_fam_incertae_sedis_1	Bifiguratus_1	Bifiguratus adelaidae 
+OTU_2112	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	Fusarium acutatum 
+OTU_2113	Fungi_1						
+OTU_2114	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae_1		
+OTU_2115	Fungi_1	Ascomycota_1	Taphrinomycetes_1	Taphrinales_1	Taphrinaceae_1	Taphrina_1	
+OTU_2116	Fungi	Ascomycota					
+OTU_2117	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	
+OTU_2118	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1	Teratosphaeriaceae_1		
+OTU_2119	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Tricladiaceae_1	Tricladium_1	Tricladium angustum 
+OTU_2120	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	
+OTU_2121	Ichthyosporia_1	Ichthyosporea_1					
+OTU_2122	Metazoa_1	Arthropoda_1					
+OTU_2123	Fungi_1	Rozellomycota					
+OTU_2124							
+OTU_2125	Fungi_1	Ascomycota					
+OTU_2126	Fungi_1	Glomeromycota_1					
+OTU_2127	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Sebacinales_1	Serendipitaceae_1		
+OTU_2128	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Pterulaceae_1	Pterula_1	Pterula sp  
+OTU_2129	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2130	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1			
+OTU_2131	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Dominikia	
+OTU_2132	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Leucosporidiales_1			
+OTU_2133	Fungi	Glomeromycota	Glomeromycetes				
+OTU_2134	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_2135	Fungi						
+OTU_2136	Fungi_1						
+OTU_2137	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2138	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Stemphylium_1	
+OTU_2139	Fungi_1	Mucoromycota_1	Mucoromycetes_1	Mucorales_1	Mucoraceae_1	Mucor_1	Mucor irregularis 
+OTU_2140	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Agaricales_1	Coprinus_1	Coprinus cordisporus 	
+OTU_2141	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_2142	Fungi						
+OTU_2143	Fungi_1						
+OTU_2144	Fungi	Glomeromycota	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1		
+OTU_2145	Fungi_1						
+OTU_2146	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2147	Fungi	Basidiomycota	Agaricomycetes_1	Trechisporales_1	Hydnodontaceae_1	Trechispora_1	Trechispora sp  
+OTU_2148							
+OTU_2149	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	Diversispora celata 
+OTU_2150	Fungi_1						
+OTU_2151	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Xylariaceae_1	Lopadostoma_1	
+OTU_2152	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2153	Fungi	Ascomycota					
+OTU_2154	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1	Debaryomycetaceae_1	Yamadazyma_1	Yamadazyma mexicana 
+OTU_2155	Fungi_1	Ascomycota_1					
+OTU_2156	Fungi						
+OTU_2157	Fungi_1	Ascomycota_1	Sordariomycetes_1	Myrmecridiales_1	Myrmecridiaceae_1	Myrmecridium_1	
+OTU_2158	Fungi						
+OTU_2159	Fungi	Glomeromycota_1					
+OTU_2160	Fungi_1	Ascomycota_1					
+OTU_2161	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2162	Metazoa_1	Arthropoda_1					
+OTU_2163	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_2164	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_2165	Fungi_1	Rozellomycota_1					
+OTU_2166	Fungi_1	Ascomycota_1	Eurotiomycetes_1				
+OTU_2167	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus clarus 
+OTU_2168	Fungi						
+OTU_2169	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2170	Fungi						
+OTU_2171	Fungi_1	Glomeromycota_1					
+OTU_2172	Fungi						
+OTU_2173	Fungi_1	Chytridiomycota_1					
+OTU_2174	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_2175	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_2176	Fungi						
+OTU_2177	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	
+OTU_2178	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraphoma_1	
+OTU_2179	Rhizaria_1	Cercozoa_1					
+OTU_2180	Fungi_1						
+OTU_2181	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Diatrypaceae_1	Peroneutypa_1	Peroneutypa scoparia 
+OTU_2182	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1	Coniochaetaceae_1	Coniochaeta_1	
+OTU_2183	Fungi						
+OTU_2184	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1		
+OTU_2185	Viridiplantae_1	Anthophyta_1	Monocotyledonae_1	Poales_1	Poaceae_1		
+OTU_2186	Fungi_1						
+OTU_2187	Rhizaria_1	Cercozoa_1					
+OTU_2188	Fungi_1	Chytridiomycota_1	Spizellomycetes_1	Spizellomycetales_1			
+OTU_2189	Fungi_1	Basidiomycota_1	Agaricostilbomycetes_1	Agaricostilbales_1	Chionosphaeraceae_1	Kurtzmanomyces_1	
+OTU_2190	Fungi_1						
+OTU_2191	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1			
+OTU_2192	Rhizaria_1	Cercozoa_1					
+OTU_2193	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1	Candida_1		
+OTU_2194	Fungi_1	Rozellomycota_1					
+OTU_2195	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_2196	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1	Acaulospora_1	Acaulospora scrobiculata 
+OTU_2197	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	
+OTU_2198	Fungi_1	Glomeromycota_1					
+OTU_2199	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Russulales_1	Stereaceae_1	Stereum_1	Stereum sanguinolentum 
+OTU_2200	Fungi_1	Ascomycota_1	Sordariomycetes_1	Myrmecridiales_1	Myrmecridiaceae_1	Myrmecridium_1	
+OTU_2201	Fungi_1						
+OTU_2202	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	
+OTU_2203	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Polyporaceae_1	Trametes_1	Trametes hirsuta 
+OTU_2204	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2205	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Dermateaceae		
+OTU_2206	Fungi	Glomeromycota	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1		
+OTU_2207							
+OTU_2208	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Bionectriaceae_1	Clonostachys_1	
+OTU_2209	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2210	Fungi_1						
+OTU_2211	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_2212	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_2213	Fungi						
+OTU_2214	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_2215	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Septoglomus_1	
+OTU_2216	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium olsonii 
+OTU_2217	Fungi_1	Ascomycota_1	Sordariomycetes_1	Microascales_1	Microascaceae_1	Acaulium_1	Acaulium sp  
+OTU_2218	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2219	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus clarus 
+OTU_2220	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1	Acremonium_1	Acremonium persicinum 
+OTU_2221	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1		
+OTU_2222	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2223	Fungi_1	Glomeromycota_1					
+OTU_2224							
+OTU_2225	Fungi						
+OTU_2226	Fungi_1	Ascomycota_1					
+OTU_2227	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_2228	Fungi_1	Glomeromycota_1					
+OTU_2229	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1			
+OTU_2230	Fungi						
+OTU_2231	Fungi_1						
+OTU_2232	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Funneliformis_1	Funneliformis mosseae 
+OTU_2233	Fungi_1	Chytridiomycota_1					
+OTU_2234	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Claroideoglomeraceae	Claroideoglomus_1	
+OTU_2235	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2236	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_2237	Fungi_1	Ascomycota_1	Sordariomycetes_1	Myrmecridiales_1	Myrmecridiaceae_1	Myrmecridium_1	
+OTU_2238	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Nigrograna_1	Nigrograna sp  	
+OTU_2239	Fungi						
+OTU_2240	Fungi	Glomeromycota	Glomeromycetes_1	Glomerales_1			
+OTU_2241	Fungi						
+OTU_2242	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2243	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1			
+OTU_2244	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_2245	Fungi						
+OTU_2246	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Cyphellophoraceae_1	Cyphellophora_1	Cyphellophora sp  
+OTU_2247	Fungi						
+OTU_2248	Fungi_1	Glomeromycota_1					
+OTU_2249	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_2250	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1		
+OTU_2251	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2252	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Trechisporales_1	Hydnodontaceae_1	Trechispora_1	Trechispora stellulata 
+OTU_2253	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2254	Fungi_1						
+OTU_2255	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Trichocomaceae_1	Talaromyces_1	
+OTU_2256	Fungi						
+OTU_2257	Fungi_1	Ascomycota_1	Dothideomycetes_1	Dothideales_1			
+OTU_2258	Fungi						
+OTU_2259	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae		
+OTU_2260	Fungi_1	Mucoromycota_1	Mucoromycetes_1	Mucorales_1	Mucoraceae_1	Mucor_1	Mucor moelleri 
+OTU_2261	Fungi						
+OTU_2262	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_2263	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	
+OTU_2264	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1			
+OTU_2265	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	Acaulosporaceae		
+OTU_2266	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_2267	Fungi_1						
+OTU_2268	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2269	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Herpotrichiellaceae_1	Exophiala_1	
+OTU_2270	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2271	Viridiplantae_1	Anthophyta_1	Monocotyledonae_1	Poales_1	Poaceae_1		
+OTU_2272	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1	
+OTU_2273							
+OTU_2274	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreales_fam_incertae_sedis_1	Acremonium_1	Acremonium furcatum 
+OTU_2275							
+OTU_2276	Fungi	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1			
+OTU_2277	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Geastrales_1	Geastraceae_1	Geastrum_1	
+OTU_2278	Fungi						
+OTU_2279	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	Diversispora epigaea 
+OTU_2280	Fungi_1	Mucoromycota_1	Endogonomycetes_1	Endogonales_1			
+OTU_2281	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Gigasporales_1	Gigasporaceae_1	Gigaspora_1	Gigaspora rosea 
+OTU_2282	Fungi	Ascomycota					
+OTU_2283	Fungi_1	Glomeromycota_1					
+OTU_2284	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_2285	Fungi_1	Rozellomycota_1					
+OTU_2286	Fungi						
+OTU_2287	Fungi_1						
+OTU_2288	Fungi						
+OTU_2289	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	
+OTU_2290	Fungi						
+OTU_2291	Fungi						
+OTU_2292	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Penicillium_1	Penicillium sp  
+OTU_2293	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Phaeomoniellales			
+OTU_2294	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Torulaceae_1	Dendryphion_1	Dendryphion europaeum 
+OTU_2295	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales_1	Glomeraceae_1		
+OTU_2296	Fungi_1						
+OTU_2297	Fungi						
+OTU_2298	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2299	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Hyphodermataceae_1	Hyphoderma_1	Hyphoderma setigerum 
+OTU_2300	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Gigasporales_1	Gigasporaceae_1	Cetraspora_1	Cetraspora gilmorei 
+OTU_2301	Rhizaria_1	Cercozoa_1					
+OTU_2302	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Sarocladium_1	Sarocladium bactrocephalum 	
+OTU_2303	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2304	Fungi_1	Ascomycota_1	Sordariomycetes_1	Xylariales_1	Xylariaceae_1	Daldinia_1	Daldinia childiae 
+OTU_2305	Fungi						
+OTU_2306	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1	Exidiaceae_1	Exidia	
+OTU_2307	Fungi	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1		
+OTU_2308	Rhizaria_1	Cercozoa_1					
+OTU_2309	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_2310	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymosphaeriaceae_1	Paraphaeosphaeria	
+OTU_2311	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Hypocreaceae_1	Trichoderma_1	Trichoderma floccosum 
+OTU_2312	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Rhizophagus_1	Rhizophagus clarus 
+OTU_2313	Fungi						
+OTU_2314	Fungi	Ascomycota_1					
+OTU_2315	Fungi_1	Ascomycota_1	Sordariomycetes_1	Chaetosphaeriales_1	Chaetosphaeriaceae_1		
+OTU_2316	Fungi_1	Chytridiomycota_1					
+OTU_2317	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_2318	Fungi						
+OTU_2319	Alveolata_1	Ciliophora_1	Oligohymenophorea_1				
+OTU_2320	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_2321	Fungi_1	Ascomycota_1					
+OTU_2322	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1	Dipodascaceae_1		
+OTU_2323	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1		
+OTU_2324	Fungi_1	Ascomycota_1	Arthoniomycetes_1	Lichenostigmatales_1	Phaeococcomycetaceae_1	Phaeococcomyces_1	
+OTU_2325	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae		
+OTU_2326	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1			
+OTU_2327	Fungi_1	Olpidiomycota_1	Olpidiomycetes_1	Olpidiales_1	Olpidiaceae_1	Olpidium_1	
+OTU_2328	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2329	Fungi_1						
+OTU_2330	Fungi						
+OTU_2331	Fungi_1						
+OTU_2332	Fungi_1	Ascomycota_1	Sordariomycetes_1	Hypocreales_1	Nectriaceae_1	Fusarium_1	Fusarium sporotrichioides 
+OTU_2333	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Gigasporales_1	Gigasporaceae_1	Gigaspora	
+OTU_2334	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Polyporales_1	Irpicaceae_1	Irpex_1	Irpex hydnoides 
+OTU_2335	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Ceratobasidiaceae_1	Thanatephorus_1	Thanatephorus sp  
+OTU_2336	Fungi						
+OTU_2337							
+OTU_2338	Fungi_1	Kickxellomycota_1	Kickxellomycetes_1	Kickxellales_1	Kickxellaceae	Ramicandelaber_1	
+OTU_2339	Fungi_1	Ascomycota_1	Leotiomycetes_1				
+OTU_2340	Fungi_1	Ascomycota					
+OTU_2341	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Hymenochaetales_1	Hymenochaetaceae_1	Fuscoporia_1	Fuscoporia ferruginosa 
+OTU_2342	Fungi_1	Zoopagomycota_1					
+OTU_2343	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Hymenochaetales			
+OTU_2344							
+OTU_2345							
+OTU_2346	Fungi	Ascomycota					
+OTU_2347	Fungi_1	Ascomycota_1	Sordariomycetes_1	Melanosporales_1	Ceratostomataceae_1	Harzia_1	
+OTU_2348	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1		
+OTU_2349	Fungi_1	Glomeromycota_1					
+OTU_2350	Fungi_1	Ascomycota_1	Leotiomycetes_1				
+OTU_2351	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Didymellaceae_1	Epicoccum_1	
+OTU_2352	Fungi_1						
+OTU_2353	Fungi_1	Glomeromycota_1	Glomeromycetes	Glomerales	Glomeraceae		
+OTU_2354	Fungi						
+OTU_2355	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_2356	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	Glomus macrocarpum 
+OTU_2357	Fungi_1						
+OTU_2358	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Setophoma_1	
+OTU_2359	Fungi_1						
+OTU_2360	Fungi_1	Ascomycota	Dothideomycetes_1	Pleosporales_1	Cucurbitariaceae_1	Pyrenochaetopsis_1	Pyrenochaetopsis tabarestanensis 
+OTU_2361	Fungi_1	Ascomycota_1	Sordariomycetes_1	Coniochaetales_1			
+OTU_2362	Rhizaria_1	Cercozoa_1					
+OTU_2363	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Chrysozymaceae_1	Chrysozyma_1	Chrysozyma griseoflava 	
+OTU_2364	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Chaetomium_1	
+OTU_2365	Fungi	Chytridiomycota					
+OTU_2366							
+OTU_2367							
+OTU_2368							
+OTU_2369	Fungi_1	Ascomycota_1	Dothideomycetes_1	Tubeufiales_1			
+OTU_2370	Fungi_1						
+OTU_2371	Fungi_1	Basidiomycota_1	Tremellomycetes_1				
+OTU_2372	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Dioszegia_1	Dioszegia changbaiensis 
+OTU_2373	Fungi_1	Zoopagomycota_1					
+OTU_2374	Fungi						
+OTU_2375	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleraceae_1	Genolevuria_1	Genolevuria armeniaca 
+OTU_2376	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Cystobasidiomycetes_ord_incertae_sedis_1	Buckleyzymaceae_1	Buckleyzyma_1	Buckleyzyma aurantiaca 
+OTU_2377	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Cantharellales_1	Cantharellales_fam_incertae_sedis_1	Sistotrema_1	Sistotrema sp  
+OTU_2378	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_2379	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	
+OTU_2380							
+OTU_2381	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Claroideoglomeraceae	Claroideoglomus	
+OTU_2382	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	Glomus macrocarpum 
+OTU_2383	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Cyphellophoraceae_1	Cyphellophora_1	
+OTU_2384	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Auriculariales_1			
+OTU_2385	Fungi						
+OTU_2386	Rhizaria_1	Cercozoa_1					
+OTU_2387	Fungi_1	Chytridiomycota_1	Rhizophydiomycetes_1	Rhizophydiales_1			
+OTU_2388	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2389	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Gigasporales_1	Gigasporaceae_1	Scutellospora_1	
+OTU_2390	Fungi						
+OTU_2391	Fungi_1	Ascomycota_1	Dothideomycetes_1	Venturiales_1	Sympoventuriaceae_1	Veronaeopsis_1	Veronaeopsis simplex 
+OTU_2392	Fungi_1	Ascomycota_1	Dothideomycetes_1	Capnodiales_1			
+OTU_2393	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2394	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1		
+OTU_2395	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1	Diversispora sporocarpia 
+OTU_2396	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Cyphellophoraceae_1	Cyphellophora_1	
+OTU_2397	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Claroideoglomeraceae_1	Claroideoglomus_1	
+OTU_2398	Fungi						
+OTU_2399	Fungi						
+OTU_2400	Fungi_1	Ascomycota_1	Sordariomycetes_1	Sordariales_1	Chaetomiaceae_1	Humicola	
+OTU_2401							
+OTU_2402	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2403	Fungi_1	Ascomycota_1	Sordariomycetes_1	Diaporthales_1	Gnomoniaceae_1	Ophiognomonia_1	
+OTU_2404	Fungi_1	Chytridiomycota_1					
+OTU_2405	Fungi_1	Basidiomycota_1	Agaricomycetes_1	Tremellodendropsidales_1			
+OTU_2406	Fungi_1	Ascomycota_1	Leotiomycetes_1				
+OTU_2407	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Rhodotorula_1	Rhodotorula mucilaginosa 
+OTU_2408							
+OTU_2409	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Aspergillus_1	Aspergillus chlamydosporus 
+OTU_2410	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2411	Fungi						
+OTU_2412	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1			
+OTU_2413							
+OTU_2414	Fungi						
+OTU_2415	Fungi						
+OTU_2416	Fungi_1	Chytridiomycota_1	Lobulomycetes_1	Lobulomycetales_1			
+OTU_2417							
+OTU_2418	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Paraphoma_1	Paraphoma radicina 
+OTU_2419	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales	Glomeraceae_1		
+OTU_2420	Fungi_1	Chytridiomycota_1	Rhizophlyctidomycetes_1	Rhizophlyctidales_1	Rhizophlyctidaceae_1	Rhizophlyctis_1	Rhizophlyctis rosea 
+OTU_2421	Fungi_1	Ascomycota_1	Sordariomycetes_1				
+OTU_2422	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales	Tremellaceae	Cryptococcus	Cryptococcus sp  
+OTU_2423	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Bulleribasidiaceae_1	Vishniacozyma_1	Vishniacozyma victoriae 
+OTU_2424	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1		
+OTU_2425	Fungi_1	Ascomycota_1	Orbiliomycetes_1	Orbiliales_1	Orbiliaceae_1	Arthrobotrys_1	
+OTU_2426							
+OTU_2427	Fungi	Ascomycota	Sordariomycetes	Hypocreales			
+OTU_2428	Fungi_1	Ascomycota_1	Sordariomycetes_1	Boliniales_1			
+OTU_2429							
+OTU_2430	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Eurotiales_1	Aspergillaceae_1	Aspergillus_1	Aspergillus gracilis 
+OTU_2431							
+OTU_2432	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Pleosporaceae_1	Curvularia_1	Curvularia americana 
+OTU_2433	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1			
+OTU_2434							
+OTU_2435	Fungi_1						
+OTU_2436	Fungi_1	Ascomycota_1	Kabatiella sp  				
+OTU_2437	Fungi_1	Ascomycota_1	Dothideomycetes_1	Pleosporales_1	Phaeosphaeriaceae_1	Neosetophoma_1	
+OTU_2438	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus laccatum 
+OTU_2439	Fungi_1	Basidiomycota_1	Exobasidiomycetes_1	Microstromatales_1	Microstromatales_fam_incertae_sedis_1	Pseudomicrostroma_1	Pseudomicrostroma phylloplanum 
+OTU_2440	Fungi						
+OTU_2441	Fungi_1	Ascomycota_1	Sordariomycetes_1	Microascales_1	Microascaceae_1	Pseudallescheria_1	Pseudallescheria boydii 
+OTU_2442	Rhizaria_1	Cercozoa_1					
+OTU_2443	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	
+OTU_2444	Fungi_1	Ascomycota_1	Leotiomycetes_1	Helotiales_1	Hyaloscyphaceae	Cistella_1	
+OTU_2445	Fungi_1	Rozellomycota_1					
