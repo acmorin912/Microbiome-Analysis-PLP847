@@ -1,0 +1,29 @@
+#!/bin/bash --login
+
+#SBATCH --time=03:59:00            
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=16
+#SBATCH --mem=64G
+#SBATCH --job-name constax_euk
+
+cd ${SLURM_SUBMIT_DIR}
+
+conda activate constax209
+
+constax \
+    --num_threads $SLURM_CPUS_PER_TASK \
+    --mem $SLURM_MEM_PER_NODE \
+    --db /mnt/research/bonito_lab/Morin/CONSTAX/sh_general_release_dynamic_all_10.05.2021_dev.fasta \
+    --train \
+    --input /mnt/research/bonito_lab/Morin/fungal_roots_2021/clustered_OTUs/otus_R1.fasta \
+    --trainfile /mnt/home/morinas1/microbiome_soy/constax_output/ \
+    --tax /mnt/home/morinas1/microbiome_soy/constax_output/ \
+    --output /mnt/home/morinas1/microbiome_soy/constax_output/ \
+    --conf 0.7 \
+    --blast \
+    --pathfile /mnt/home/morinas1/microbiome_soy/pathfile.txt
+
+conda deactivate
+
+scontrol show job $SLURM_JOB_ID
+
