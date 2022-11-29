@@ -1,0 +1,48 @@
+---
+title: "PLB 847 Group Project - LTER Soybean Roots"
+author: "Moriah Young, Ashlynn"
+date: "2022-11-29"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+rm(list = ls()) # clear environment
+
+# set working directory
+setwd("/Users/moriahyoung/Desktop/PLB 847 Group Project/")
+
+# load packages
+library(tidyverse)
+library(stringr)
+# library(phyloseq) 
+
+# read in data
+OTU_relabun <- read.csv("/Users/moriahyoung/Desktop/PLB 847 Group Project/otu_table_roots_ITS_UPARSE.csv")
+OTU_IDs <- read.csv("/Users/moriahyoung/Desktop/PLB 847 Group Project/OTU_IDs.csv")
+
+colnames(OTU_relabun)[colnames(OTU_relabun) == "OTU.ID"] <- "OTU_ID" # changing column name in "OTU_relabun" dataframe to match the "OTU_IDs" data frame so that can be merge by OTU ID
+
+# OTU_relabun data frame is in wide format - code below makes it into long format
+otu_long <- reshape(OTU_relabun, 
+                    varying = c("V2T4r5Croot", "V2T4r5Broot", "R6T2r5Croot", "V2T2r2Broot", "R3T2r5Broot", "V2T2r2Croot", "R3T4r5Croot", "R3T1r5Aroot", "R3T4r2Croot", "V2T2r5Aroot", "R6T2r5Broot", "R6T1r1Broot", "R6T1r2Croot", "V2T1r6Aroot", "R6T2r1Broot", "V2T4r1Broot", "R6T2r6Croot", "R3T2r1Aroot", "R6T2r6Aroot", "V2T1r5Broot", "V2T4r2Aroot", "R6T4r5Croot", "R6T4r5Broot", "R3T4r6Croot", "R6T2r2Aroot", "R3T4r5Aroot", "R3T2r1Broot", "R6T1r5Croot", "V2T4r6Croot","R3T1r6Aroot", "R3T2r2Croot", "R3T4r2Aroot", "R3T2r5Aroot", "V2T2r1Croot", "V2T1r5Aroot", "V2T1r1Broot", "R3T4r6Aroot", "R3T2r1Croot", "V2T1r5Croot", "R3T1r6Croot", "R6T1r2Broot", "V2T2r2Aroot", "R3T2r6Broot", "R6T1r1Aroot", "R6T1r6Broot", "R3T1r1Aroot", "V2T1r2Aroot", "R3T4r1Aroot", "R6T2r5Aroot", "R3T4r2Broot", "R3T1r2Broot", "R6T1r5Aroot", "R3T1r1Croot", "R3T4r5Broot", "R6T1r2Aroot", "R3T2r5Croot", "R3T1r5Croot", "V2T1r6Broot", "R6T1r1Croot", "R3T1r1Broot", "V2T2r6Croot", "R6T1r5Broot", "V2T4r6Broot", "V2T1r6Croot", "R3T4r1Broot", "V2T4r1Aroot", "V2T4r6Aroot", "V2T2r6Aroot", "V2T2r1Aroot", "R3T2r2Broot", "V2T4r2Broot", "R6T1r6Aroot", "V2T1r1Croot", "R6T2r2Croot", "R6T2r2Broot", "R6T2r1Aroot", "V2T4r5Aroot", "R6T4r1Aroot", "V2T2r5Croot", "R3T4r6Broot", "R3T1r5Broot", "V2T2r6Broot", "R3T2r2Aroot","V2T1r1Aroot", "R3T1r2Aroot", "R6T2r1Croot", "V2T2r5Broot", "V2T4r1Croot", "R3T1r6Broot", "R3T4r1Croot", "V2T1r2Croot", "V2T4r2Croot", "R3T2r6Croot", "R6T1r6Croot", "R6T2r6Broot", "V2T2r1Broot", "V2T1r2Broot", "R3T2r6Aroot", "R3T1r2Croot", "NC1root", "R6T4r6Aroot"),
+                    v.names = "relabun",
+                    timevar = "plot", 
+                    times = c("V2T4r5Croot", "V2T4r5Broot", "R6T2r5Croot", "V2T2r2Broot", "R3T2r5Broot", "V2T2r2Croot", "R3T4r5Croot", "R3T1r5Aroot", "R3T4r2Croot", "V2T2r5Aroot", "R6T2r5Broot", "R6T1r1Broot", "R6T1r2Croot", "V2T1r6Aroot", "R6T2r1Broot", "V2T4r1Broot", "R6T2r6Croot", "R3T2r1Aroot", "R6T2r6Aroot", "V2T1r5Broot", "V2T4r2Aroot", "R6T4r5Croot", "R6T4r5Broot", "R3T4r6Croot", "R6T2r2Aroot", "R3T4r5Aroot", "R3T2r1Broot", "R6T1r5Croot", "V2T4r6Croot","R3T1r6Aroot", "R3T2r2Croot", "R3T4r2Aroot", "R3T2r5Aroot", "V2T2r1Croot", "V2T1r5Aroot", "V2T1r1Broot", "R3T4r6Aroot", "R3T2r1Croot", "V2T1r5Croot", "R3T1r6Croot", "R6T1r2Broot", "V2T2r2Aroot", "R3T2r6Broot", "R6T1r1Aroot", "R6T1r6Broot", "R3T1r1Aroot", "V2T1r2Aroot", "R3T4r1Aroot", "R6T2r5Aroot", "R3T4r2Broot", "R3T1r2Broot", "R6T1r5Aroot", "R3T1r1Croot", "R3T4r5Broot", "R6T1r2Aroot", "R3T2r5Croot", "R3T1r5Croot", "V2T1r6Broot", "R6T1r1Croot", "R3T1r1Broot", "V2T2r6Croot", "R6T1r5Broot", "V2T4r6Broot", "V2T1r6Croot", "R3T4r1Broot", "V2T4r1Aroot", "V2T4r6Aroot", "V2T2r6Aroot", "V2T2r1Aroot", "R3T2r2Broot", "V2T4r2Broot", "R6T1r6Aroot", "V2T1r1Croot", "R6T2r2Croot", "R6T2r2Broot", "R6T2r1Aroot", "V2T4r5Aroot", "R6T4r1Aroot", "V2T2r5Croot", "R3T4r6Broot", "R3T1r5Broot", "V2T2r6Broot", "R3T2r2Aroot","V2T1r1Aroot", "R3T1r2Aroot", "R6T2r1Croot", "V2T2r5Broot", "V2T4r1Croot", "R3T1r6Broot", "R3T4r1Croot", "V2T1r2Croot", "V2T4r2Croot", "R3T2r6Croot", "R6T1r6Croot", "R6T2r6Broot", "V2T2r1Broot", "V2T1r2Broot", "R3T2r6Aroot", "R3T1r2Croot", "NC1root", "R6T4r6Aroot"),
+                    new.row.names = 1:246945,
+                    direction = "long")
+
+# merge the two data frames above
+OTU_IDs_relabun <- left_join(otu_long, OTU_IDs, by = "OTU_ID")
+
+OTU_IDs_relabun_1 <- subset(OTU_IDs_relabun, select = -4) # delete "id" column
+
+# select for OTUs with greater than 1000 relative abundance
+OTUs_relabun_1000 <- OTU_IDs_relabun_1[-which(OTU_IDs_relabun_1$relabun < 1000),]
+
+
+```
+
