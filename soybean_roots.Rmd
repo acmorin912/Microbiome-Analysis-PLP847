@@ -48,6 +48,10 @@ OTUs <- otu_table(as.matrix(OTUs), taxa_are_rows = TRUE)
 physeq <- phyloseq(taxa, OTUs)
 ```
 
+```{r}
+plot_bar(physeq, fill = "Phylum")
+```
+
 # Code below could be useful at some point, but for now, focus on using phyloseq package.
 ```{r}
 # OTU_relabun data frame is in wide format - code below makes it into long format
