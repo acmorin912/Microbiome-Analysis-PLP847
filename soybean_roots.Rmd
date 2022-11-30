@@ -1,0 +1,204 @@
+---
+title: "PLB 847 Group Project - LTER Soybean Roots and their Fungal Community"
+author: "Moriah Young, Ashlynn"
+date: "2022-11-29"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+rm(list = ls()) # clear environment
+
+# set working directory
+setwd("/Users/moriahyoung/Desktop/PLB 847/PLB 847 Group Project/")
+
+# load packages
+library(tidyverse)
+library(stringr)
+library(plotrix) #std.error
+library(phyloseq) 
+
+# read in data
+OTUs <- read.csv("/Users/moriahyoung/Desktop/PLB 847/PLB 847 Group Project/otu_table_roots_ITS_UPARSE.csv")
+taxa <- read.csv("/Users/moriahyoung/Desktop/PLB 847/PLB 847 Group Project/OTU_IDs.csv")
+meta <- read.csv("/Users/moriahyoung/Desktop/PLB 847/PLB 847 Group Project/soybean_root_metadata.csv")
+
+# change column name in "OTUs" dataframe to match the "taxa" dataframe column
+colnames(OTUs)[colnames(OTUs) == "OTU.ID"] <- "OTU_ID" 
+
+# Add OTU_IDs as row.names
+row.names(taxa) <- taxa[,'OTU_ID']
+row.names(OTUs) <- OTUs[,'OTU_ID']
+
+# Remove the OTU_ID column (this is not the row names)
+taxa <- taxa[,colnames(taxa) != 'OTU_ID']
+OTUs <- OTUs[,colnames(OTUs) != 'OTU_ID']
+
+# Make sure that OTU_IDs in taxa and OTUs overlap and are in the same order
+ids <- dplyr::intersect(row.names(taxa), row.names(OTUs))
+taxa <- taxa[ids,]
+OTUs <- OTUs[ids,]
+
+# Convert to phyloseq object
+taxa <- tax_table(as.matrix(taxa))
+OTUs <- otu_table(as.matrix(OTUs), taxa_are_rows = TRUE)
+physeq <- phyloseq(taxa, OTUs)
+```
+
+# Code below could be useful at some point, but for now, focus on using phyloseq package.
+```{r}
+# OTU_relabun data frame is in wide format - code below makes it into long format
+otu_long <- reshape(OTU_relabun, 
+                    varying = c("V2T4r5Croot", "V2T4r5Broot", "R6T2r5Croot", "V2T2r2Broot", "R3T2r5Broot", "V2T2r2Croot", "R3T4r5Croot", "R3T1r5Aroot", "R3T4r2Croot", "V2T2r5Aroot", "R6T2r5Broot", "R6T1r1Broot", "R6T1r2Croot", "V2T1r6Aroot", "R6T2r1Broot", "V2T4r1Broot", "R6T2r6Croot", "R3T2r1Aroot", "R6T2r6Aroot", "V2T1r5Broot", "V2T4r2Aroot", "R6T4r5Croot", "R6T4r5Broot", "R3T4r6Croot", "R6T2r2Aroot", "R3T4r5Aroot", "R3T2r1Broot", "R6T1r5Croot", "V2T4r6Croot","R3T1r6Aroot", "R3T2r2Croot", "R3T4r2Aroot", "R3T2r5Aroot", "V2T2r1Croot", "V2T1r5Aroot", "V2T1r1Broot", "R3T4r6Aroot", "R3T2r1Croot", "V2T1r5Croot", "R3T1r6Croot", "R6T1r2Broot", "V2T2r2Aroot", "R3T2r6Broot", "R6T1r1Aroot", "R6T1r6Broot", "R3T1r1Aroot", "V2T1r2Aroot", "R3T4r1Aroot", "R6T2r5Aroot", "R3T4r2Broot", "R3T1r2Broot", "R6T1r5Aroot", "R3T1r1Croot", "R3T4r5Broot", "R6T1r2Aroot", "R3T2r5Croot", "R3T1r5Croot", "V2T1r6Broot", "R6T1r1Croot", "R3T1r1Broot", "V2T2r6Croot", "R6T1r5Broot", "V2T4r6Broot", "V2T1r6Croot", "R3T4r1Broot", "V2T4r1Aroot", "V2T4r6Aroot", "V2T2r6Aroot", "V2T2r1Aroot", "R3T2r2Broot", "V2T4r2Broot", "R6T1r6Aroot", "V2T1r1Croot", "R6T2r2Croot", "R6T2r2Broot", "R6T2r1Aroot", "V2T4r5Aroot", "R6T4r1Aroot", "V2T2r5Croot", "R3T4r6Broot", "R3T1r5Broot", "V2T2r6Broot", "R3T2r2Aroot","V2T1r1Aroot", "R3T1r2Aroot", "R6T2r1Croot", "V2T2r5Broot", "V2T4r1Croot", "R3T1r6Broot", "R3T4r1Croot", "V2T1r2Croot", "V2T4r2Croot", "R3T2r6Croot", "R6T1r6Croot", "R6T2r6Broot", "V2T2r1Broot", "V2T1r2Broot", "R3T2r6Aroot", "R3T1r2Croot", "NC1root", "R6T4r6Aroot"),
+                    v.names = "relabun",
+                    timevar = "plot", 
+                    times = c("V2T4r5Croot", "V2T4r5Broot", "R6T2r5Croot", "V2T2r2Broot", "R3T2r5Broot", "V2T2r2Croot", "R3T4r5Croot", "R3T1r5Aroot", "R3T4r2Croot", "V2T2r5Aroot", "R6T2r5Broot", "R6T1r1Broot", "R6T1r2Croot", "V2T1r6Aroot", "R6T2r1Broot", "V2T4r1Broot", "R6T2r6Croot", "R3T2r1Aroot", "R6T2r6Aroot", "V2T1r5Broot", "V2T4r2Aroot", "R6T4r5Croot", "R6T4r5Broot", "R3T4r6Croot", "R6T2r2Aroot", "R3T4r5Aroot", "R3T2r1Broot", "R6T1r5Croot", "V2T4r6Croot","R3T1r6Aroot", "R3T2r2Croot", "R3T4r2Aroot", "R3T2r5Aroot", "V2T2r1Croot", "V2T1r5Aroot", "V2T1r1Broot", "R3T4r6Aroot", "R3T2r1Croot", "V2T1r5Croot", "R3T1r6Croot", "R6T1r2Broot", "V2T2r2Aroot", "R3T2r6Broot", "R6T1r1Aroot", "R6T1r6Broot", "R3T1r1Aroot", "V2T1r2Aroot", "R3T4r1Aroot", "R6T2r5Aroot", "R3T4r2Broot", "R3T1r2Broot", "R6T1r5Aroot", "R3T1r1Croot", "R3T4r5Broot", "R6T1r2Aroot", "R3T2r5Croot", "R3T1r5Croot", "V2T1r6Broot", "R6T1r1Croot", "R3T1r1Broot", "V2T2r6Croot", "R6T1r5Broot", "V2T4r6Broot", "V2T1r6Croot", "R3T4r1Broot", "V2T4r1Aroot", "V2T4r6Aroot", "V2T2r6Aroot", "V2T2r1Aroot", "R3T2r2Broot", "V2T4r2Broot", "R6T1r6Aroot", "V2T1r1Croot", "R6T2r2Croot", "R6T2r2Broot", "R6T2r1Aroot", "V2T4r5Aroot", "R6T4r1Aroot", "V2T2r5Croot", "R3T4r6Broot", "R3T1r5Broot", "V2T2r6Broot", "R3T2r2Aroot","V2T1r1Aroot", "R3T1r2Aroot", "R6T2r1Croot", "V2T2r5Broot", "V2T4r1Croot", "R3T1r6Broot", "R3T4r1Croot", "V2T1r2Croot", "V2T4r2Croot", "R3T2r6Croot", "R6T1r6Croot", "R6T2r6Broot", "V2T2r1Broot", "V2T1r2Broot", "R3T2r6Aroot", "R3T1r2Croot", "NC1root", "R6T4r6Aroot"),
+                    new.row.names = 1:246945,
+                    direction = "long")
+
+# merge the two data frames above
+OTU_IDs_relabun <- left_join(otu_long, OTU_IDs, by = "OTU_ID")
+
+OTU_IDs_relabun_1 <- subset(OTU_IDs_relabun, select = -4) # delete "id" column
+
+# select for OTUs with greater than 1000 relative abundance
+OTUs_relabun_1000 <- OTU_IDs_relabun_1[-which(OTU_IDs_relabun_1$relabun < 1000),]
+
+change_plot_name <- function(df){
+        df$plot[df$plot == "V2T4r5Croot"] <- "V2_T4_r5_C_root"
+        df$plot[df$plot == "V2T4r5Broot"] <- "V2_T4_r5_B_root"
+        df$plot[df$plot == "R6T2r5Croot"] <- "R6_T2_r5_C_root"
+        df$plot[df$plot == "R6T2r5Croot"] <- "R6_T2_r5_C_root"
+        df$plot[df$plot == "R3T2r5Broot"] <- "R3_T2_r5_B_root"
+        df$plot[df$plot == "V2T2r2Croot"] <- "V2_T2_r2_C_root"
+        df$plot[df$plot == "R3T4r5Croot"] <- "R3_T4_r5_C_root"
+        df$plot[df$plot == "R3T1r5Aroot"] <- "R3_T1_r5_A_root"
+        df$plot[df$plot == "R3T4r2Croot"] <- "R3_T4_r2_C_root"
+        df$plot[df$plot == "V2T2r5Aroot"] <- "V2_T2_r5_A_root" 
+        df$plot[df$plot == "R6T2r5Broot"] <- "R6_T2_r5_B_root" 
+        df$plot[df$plot == "R6T1r1Broot"] <- "R6_T1_r1_B_root"
+        df$plot[df$plot == "R6T1r2Croot"] <- "R6_T1_r2_C_root"
+        df$plot[df$plot == "V2T1r6Aroot"] <- "V2_T1_r6_A_root"
+        df$plot[df$plot == "R6T2r1Broot"] <- "R6_T2_r1_B_root"
+        df$plot[df$plot == "V2T4r1Broot"] <- "V2_T4_r1_B_root"
+        df$plot[df$plot == "R6T2r6Croot"] <- "R6_T2_r6_C_root"
+        df$plot[df$plot == "R3T2r1Aroot"] <- "R3_T2_r1_A_root"
+        df$plot[df$plot == "R6T2r6Aroot"] <- "R6_T2_r6_A_root"
+        df$plot[df$plot == "V2T1r5Broot"] <- "V2_T1_r5_B_root"
+        df$plot[df$plot == "V2T4r2Aroot"] <- "V2_T4_r2_A_root"
+        df$plot[df$plot == "R6T4r5Croot"] <- "R6_T4_r5_C_root"
+        df$plot[df$plot == "R6T4r5Broot"] <- "R6_T4_r5_B_root"
+        df$plot[df$plot == "R3T4r6Croot"] <- "R3_T4_r6_C_root"
+        df$plot[df$plot == "R6T2r2Aroot"] <- "R6_T2_r2_A_root"
+        df$plot[df$plot == "R3T4r5Aroot"] <- "R3_T4_r5_A_root"
+        df$plot[df$plot == "R3T2r1Broot"] <- "R3_T2_r1_B_root"
+        df$plot[df$plot == "R6T1r5Croot"] <- "R6_T1_r5_C_root"
+        df$plot[df$plot == "V2T4r6Croot"] <- "V2_T4_r6_C_root"
+        df$plot[df$plot == "R3T1r6Aroot"] <- "R3_T1_r6_A_root"
+        df$plot[df$plot == "R3T2r2Croot"] <- "R3_T2_r2_C_root"
+        df$plot[df$plot == "R3T4r2Aroot"] <- "R3_T4_r2_A_root"
+        df$plot[df$plot == "R3T2r5Aroot"] <- "R3_T2_r5_A_root"
+        df$plot[df$plot == "V2T2r1Croot"] <- "V2_T2_r1_C_root"
+        df$plot[df$plot == "V2T1r5Aroot"] <- "V2_T1_r5_A_root"
+        df$plot[df$plot == "V2T1r1Broot"] <- "V2_T1_r1_B_root"
+        df$plot[df$plot == "R3T4r6Aroot"] <- "R3_T4_r6_A_root"
+        df$plot[df$plot == "R3T2r1Croot"] <- "R3_T2_r1_C_root"
+        df$plot[df$plot == "V2T1r5Croot"] <- "V2_T1_r5_C_root"
+        df$plot[df$plot == "R3T1r6Croot"] <- "R3_T1_r6_C_root"
+        df$plot[df$plot == "R6T1r2Broot"] <- "R6_T1_r2_B_root"
+        df$plot[df$plot == "V2T2r2Aroot"] <- "V2_T2_r2_A_root"
+        df$plot[df$plot == "R3T2r6Broot"] <- "R3_T2_r6_B_root"
+        df$plot[df$plot == "R6T1r1Aroot"] <- "R6_T1_r1_A_root"
+        df$plot[df$plot == "R6T1r6Broot"] <- "R6_T1_r6_B_root"
+        df$plot[df$plot == "R3T1r1Aroot"] <- "R3_T1_r1_A_root"
+        df$plot[df$plot == "V2T1r2Aroot"] <- "V2_T1_r2_A_root"
+        df$plot[df$plot == "R3T4r1Aroot"] <- "R3_T4_r1_A_root"
+        df$plot[df$plot == "R6T2r5Aroot"] <- "R6_T2_r5_A_root"
+        df$plot[df$plot == "R3T4r2Broot"] <- "R3_T4_r2_B_root"
+        df$plot[df$plot == "R3T1r2Broot"] <- "R3_T1_r2_B_root"
+        df$plot[df$plot == "R6T1r5Aroot"] <- "R6_T1_r5_A_root"
+        df$plot[df$plot == "R3T1r1Croot"] <- "R3_T1_r1_C_root"
+        df$plot[df$plot == "R3T4r5Broot"] <- "R3_T4_r5_B_root"
+        df$plot[df$plot == "R6T1r2Aroot"] <- "R6_T1_r2_A_root"
+        df$plot[df$plot == "R3T2r5Croot"] <- "R3_T2_r5_C_root"
+        df$plot[df$plot == "R3T1r5Croot"] <- "R3_T1_r5_C_root"
+        df$plot[df$plot == "V2T1r6Broot"] <- "V2_T1_r6_B_root"
+        df$plot[df$plot == "R6T1r1Croot"] <- "R6_T1_r1_C_root"
+        df$plot[df$plot == "R3T1r1Broot"] <- "R3_T1_r1_B_root"
+        df$plot[df$plot == "V2T2r6Croot"] <- "V2_T2_r6_C_root"
+        df$plot[df$plot == "R6T1r5Broot"] <- "R6_T1_r5_B_root"
+        df$plot[df$plot == "V2T4r6Broot"] <- "V2_T4_r6_B_root"
+        df$plot[df$plot == "V2T1r6Croot"] <- "V2_T1_r6_C_root"
+        df$plot[df$plot == "R3T4r1Broot"] <- "R3_T4_r1_B_root"
+        df$plot[df$plot == "V2T4r1Aroot"] <- "V2_T4_r1_A_root"
+        df$plot[df$plot == "V2T4r6Aroot"] <- "V2_T4_r6_A_root"
+        df$plot[df$plot == "V2T2r6Aroot"] <- "V2_T2_r6_A_root"
+        df$plot[df$plot == "V2T2r1Aroot"] <- "V2_T2_r1_A_root"
+        df$plot[df$plot == "R3T2r2Broot"] <- "R3_T2_r2_B_root"
+        df$plot[df$plot == "V2T4r2Broot"] <- "V2_T4_r2_B_root"
+        df$plot[df$plot == "R6T1r6Aroot"] <- "R6_T1_r6_A_root"
+        df$plot[df$plot == "V2T1r1Croot"] <- "V2_T1_r1_C_root"
+        df$plot[df$plot == "R6T2r2Croot"] <- "R6_T2_r2_C_root"
+        df$plot[df$plot == "R6T2r2Broot"] <- "R6_T2_r2_B_root"
+        df$plot[df$plot == "R6T2r1Aroot"] <- "R6_T2_r1_A_root"
+        df$plot[df$plot == "V2T4r5Aroot"] <- "V2_T4_r5_A_root"
+        df$plot[df$plot == "R6T4r1Aroot"] <- "R6_T4_r1_A_root"
+        df$plot[df$plot == "V2T2r5Croot"] <- "V2_T2_r5_C_root"
+        df$plot[df$plot == "R3T4r6Broot"] <- "R3_T4_r6_B_root"
+        df$plot[df$plot == "R3T1r5Broot"] <- "R3_T1_r5_B_root"
+        df$plot[df$plot == "V2T2r6Broot"] <- "V2_T2_r6_B_root"
+        df$plot[df$plot == "R3T2r2Aroot"] <- "R3_T2_r2_A_root"
+        df$plot[df$plot == "V2T1r1Aroot"] <- "V2_T1_r1_A_root"
+        df$plot[df$plot == "R3T1r2Aroot"] <- "R3_T1_r2_A_root"
+        df$plot[df$plot == "R6T2r1Croot"] <- "R6_T2_r1_C_root"
+        df$plot[df$plot == "V2T2r5Broot"] <- "V2_T2_r5_B_root"
+        df$plot[df$plot == "V2T4r1Croot"] <- "V2_T4_r1_C_root"
+        df$plot[df$plot == "R3T1r6Broot"] <- "R3_T1_r6_B_root"
+        df$plot[df$plot == "R3T4r1Croot"] <- "R3_T4_r1_C_root"
+        df$plot[df$plot == "V2T1r2Croot"] <- "V2_T1_r2_C_root"
+        df$plot[df$plot == "V2T4r2Croot"] <- "V2_T4_r2_C_root"
+        df$plot[df$plot == "R3T2r6Croot"] <- "R3_T2_r6_C_root"
+        df$plot[df$plot == "R6T1r6Croot"] <- "R6_T1_r6_C_root"
+        df$plot[df$plot == "R6T2r6Broot"] <- "R6_T2_r6_B_root"
+        df$plot[df$plot == "V2T2r1Broot"] <- "V2_T2_r1_B_root"
+        df$plot[df$plot == "V2T1r2Broot"] <- "V2_T1_r2_B_root"
+        df$plot[df$plot == "R3T2r6Aroot"] <- "R3_T2_r6_A_root"
+        df$plot[df$plot == "R3T1r2Croot"] <- "R3_T1_r2_C_root"
+        df$plot[df$plot == "V2T2r2Broot"] <- "V2_T2_r2_B_root"
+        return(df)
+}
+
+OTUs_relabun_1000_1 <- change_plot_name(OTUs_relabun_1000)
+
+OTUs_relabun_1000_2 <- OTUs_relabun_1000_1 %>%
+  separate(plot, c("growth_stage", "treatment", "treatment_replicate", "sample_replicate", "sample"), "_")
+
+OTU_metadata <- left_join(meta, OTUs_relabun_1000_2, by = c("growth_stage", "treatment"))
+
+# rearrange columns
+
+# write a new csv with the cleaned and merge data and upload to the shared google drive
+write.csv(OTUs_relabun_1000_2, file.path("/Users/moriahyoung/Desktop/PLB 847/PLB 847 Group Project/OTU_relaabun_final.csv"), row.names = F)
+
+```
+
+```{r}
+# make seperate date frames for each development stage of the soybean
+R3 <- OTU_metadata[which(OTU_metadata$growth_stage == "R3"),]
+R6 <- OTU_metadata[which(OTU_metadata$growth_stage == "R6"),]
+V2 <- OTU_metadata[which(OTU_metadata$growth_stage == "V2"),]
+
+sum_OTU <- OTU_metadata %>%
+  group_by(treatment, growth_stage) %>%
+  summarize(sum_relabun = sum(relabun, na.rm = TRUE))
+
+sum_OTU_1 <- merge(sum_OTU, OTU_metadata, by = c("growth_stage","treatment"))
+
+#calculate relative abundance %
+sum_OTU_1$abundance <- sum_OTU_1$relabun/sum_OTU_1$sum_relabun
+```
+
+
