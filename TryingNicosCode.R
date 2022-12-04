@@ -1,3 +1,6 @@
+library(ggpubr)
+library(tidyverse)
+
 # importing other tables 
 otus_ITS_uparse_R1 <-
   read.delim(
@@ -7,7 +10,7 @@ otus_ITS_uparse_R1 <-
 
 metadata_ITS_uparse_R1 <-
   read.delim(
-    "root_fun_map_soybean_2021.txt",
+    "root_fun_map_soybean_2021_1.txt",
     row.names = 1,
     header = TRUE,)
 
@@ -18,9 +21,13 @@ otus_seq_ITS_uparse_R1 <-
     seek.first.rec = TRUE,
     use.names = TRUE)
 
+ITS_taxonomy<-read.delim("constax_taxonomy.txt",
+                         header=TRUE, 
+                         row.names=1)
+
 physeq_ITS_uparse <- phyloseq(otu_table(otus_ITS_uparse_R1, taxa_are_rows = TRUE),
                               sample_data(metadata_ITS_uparse_R1),
-                              tax_table(as.matrix(taxonomy_ITS08_filt)),
+                              tax_table(as.matrix(ITS_taxonomy)),
                               otus_seq_ITS_uparse_R1) 
 
 physeq_ITS_uparse
@@ -30,7 +37,35 @@ tax_table(physeq_ITS_uparse)[tax_table(physeq_ITS_uparse)==""]<- NA
 head(tax_table(physeq_ITS_uparse))
 
 # checking the phyloseq object
-sort(unique(as.data.frame(tax_table(physeq_ITS_uparse))$Kingdom)) # everything is Fungi
+sort(unique(as.data.frame(tax_table(physeq_ITS_uparse))$Kingdom)) # not everything is Fungi
+# remove non fungi 
+#remove chloropast,mitochondria,cyanobacteria (Moriah added code below - from Ried's script)
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Phylum!="Chloroplast")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Class!="Chloroplast")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Order!="Chloroplast")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Family!="Chloroplast")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Genus!="Chloroplast")
+sort(unique(as.data.frame(tax_table(physeq_ITS_uparse))$Kingdom))
+
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Phylum!="Mitochondria")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Class!="Mitochondria")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Order!="Mitochondria")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Family!="Mitochondria")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Genus!="Mitochondria")
+sort(unique(as.data.frame(tax_table(physeq_ITS_uparse))$Kingdom))
+
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Phylum!="Cynobacteria")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Class!="Cynobacteria")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Order!="Cynobacteria")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Family!="Cynobacteria")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Genus!="Cynobacteria")
+sort(unique(as.data.frame(tax_table(physeq_ITS_uparse))$Kingdom))
+
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Kingdom!="Anthophyta")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Kingdom!="Rhizaria_1")
+physeq_ITS_uparse <- subset_taxa(physeq_ITS_uparse, Kingdom!="Viridiplantae_1")
+sort(unique(as.data.frame(tax_table(physeq_ITS_uparse))$Kingdom))
+# end of Moriah's additiong
 nrow(as.data.frame(tax_table(physeq_ITS_uparse))[as.data.frame(tax_table(physeq_ITS_uparse))$Kingdom!="Fungi",])
 
 df_fungi_uparse <-
@@ -42,7 +77,13 @@ df_fungi_uparse$Index <-
   seq(nrow(df_fungi_uparse)) # sample numbering
 df_fungi_uparse
 
-# reorder the factor
+# Delete samples with a mean of less than 1000 (Moriah added this)
+samplesover1000_all <- subset_samples(physeq_ITS_uparse, sample_sums(physeq_ITS_uparse) > 1000)
+any(taxa_sums(samplesover1000_all) == 0)
+set.seed(81)
+rarefy_samplesover1000_all <- rarefy_even_depth(prune_samplesover1000_all, rngseed= 81, sample.size = min(sample_sums(prune_samplesover1000_all)))
+
+# reorder the factor - (Moriah wants to know what are these levels???)
 df_fungi_uparse$Site <- factor(
   df_fungi_uparse$Site,
   levels = c(
@@ -75,5 +116,5 @@ ggarrange(
   common.legend = TRUE,
   legend = "bottom") -> lib_size_all
 
-lib_size_all
+glib_size_all
     

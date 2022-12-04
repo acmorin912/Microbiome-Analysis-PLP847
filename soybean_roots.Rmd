@@ -46,6 +46,7 @@ OTUs <- OTUs[ids,]
 taxa <- tax_table(as.matrix(taxa))
 OTUs <- otu_table(as.matrix(OTUs), taxa_are_rows = TRUE)
 physeq <- phyloseq(taxa, OTUs)
+
 ```
 
 ```{r}
@@ -55,7 +56,7 @@ plot_bar(physeq, fill = "Phylum")
 # Code below could be useful at some point, but for now, focus on using phyloseq package.
 ```{r}
 # OTU_relabun data frame is in wide format - code below makes it into long format
-otu_long <- reshape(OTU_relabun, 
+otu_long <- reshape(OTUs, 
                     varying = c("V2T4r5Croot", "V2T4r5Broot", "R6T2r5Croot", "V2T2r2Broot", "R3T2r5Broot", "V2T2r2Croot", "R3T4r5Croot", "R3T1r5Aroot", "R3T4r2Croot", "V2T2r5Aroot", "R6T2r5Broot", "R6T1r1Broot", "R6T1r2Croot", "V2T1r6Aroot", "R6T2r1Broot", "V2T4r1Broot", "R6T2r6Croot", "R3T2r1Aroot", "R6T2r6Aroot", "V2T1r5Broot", "V2T4r2Aroot", "R6T4r5Croot", "R6T4r5Broot", "R3T4r6Croot", "R6T2r2Aroot", "R3T4r5Aroot", "R3T2r1Broot", "R6T1r5Croot", "V2T4r6Croot","R3T1r6Aroot", "R3T2r2Croot", "R3T4r2Aroot", "R3T2r5Aroot", "V2T2r1Croot", "V2T1r5Aroot", "V2T1r1Broot", "R3T4r6Aroot", "R3T2r1Croot", "V2T1r5Croot", "R3T1r6Croot", "R6T1r2Broot", "V2T2r2Aroot", "R3T2r6Broot", "R6T1r1Aroot", "R6T1r6Broot", "R3T1r1Aroot", "V2T1r2Aroot", "R3T4r1Aroot", "R6T2r5Aroot", "R3T4r2Broot", "R3T1r2Broot", "R6T1r5Aroot", "R3T1r1Croot", "R3T4r5Broot", "R6T1r2Aroot", "R3T2r5Croot", "R3T1r5Croot", "V2T1r6Broot", "R6T1r1Croot", "R3T1r1Broot", "V2T2r6Croot", "R6T1r5Broot", "V2T4r6Broot", "V2T1r6Croot", "R3T4r1Broot", "V2T4r1Aroot", "V2T4r6Aroot", "V2T2r6Aroot", "V2T2r1Aroot", "R3T2r2Broot", "V2T4r2Broot", "R6T1r6Aroot", "V2T1r1Croot", "R6T2r2Croot", "R6T2r2Broot", "R6T2r1Aroot", "V2T4r5Aroot", "R6T4r1Aroot", "V2T2r5Croot", "R3T4r6Broot", "R3T1r5Broot", "V2T2r6Broot", "R3T2r2Aroot","V2T1r1Aroot", "R3T1r2Aroot", "R6T2r1Croot", "V2T2r5Broot", "V2T4r1Croot", "R3T1r6Broot", "R3T4r1Croot", "V2T1r2Croot", "V2T4r2Croot", "R3T2r6Croot", "R6T1r6Croot", "R6T2r6Broot", "V2T2r1Broot", "V2T1r2Broot", "R3T2r6Aroot", "R3T1r2Croot", "NC1root", "R6T4r6Aroot"),
                     v.names = "relabun",
                     timevar = "plot", 
@@ -64,12 +65,9 @@ otu_long <- reshape(OTU_relabun,
                     direction = "long")
 
 # merge the two data frames above
-OTU_IDs_relabun <- left_join(otu_long, OTU_IDs, by = "OTU_ID")
+OTUs_1 <- left_join(otu_long, taxa, by = "OTU_ID")
 
-OTU_IDs_relabun_1 <- subset(OTU_IDs_relabun, select = -4) # delete "id" column
-
-# select for OTUs with greater than 1000 relative abundance
-OTUs_relabun_1000 <- OTU_IDs_relabun_1[-which(OTU_IDs_relabun_1$relabun < 1000),]
+OTUs_2 <- subset(OTUs_1, select = -4) # delete "id" column
 
 change_plot_name <- function(df){
         df$plot[df$plot == "V2T4r5Croot"] <- "V2_T4_r5_C_root"
@@ -175,18 +173,20 @@ change_plot_name <- function(df){
         return(df)
 }
 
-OTUs_relabun_1000_1 <- change_plot_name(OTUs_relabun_1000)
+OTUs3 <- change_plot_name(OTUs_2)
 
-OTUs_relabun_1000_2 <- OTUs_relabun_1000_1 %>%
+OTUs4 <- OTUs3 %>%
   separate(plot, c("growth_stage", "treatment", "treatment_replicate", "sample_replicate", "sample"), "_")
 
-OTU_metadata <- left_join(meta, OTUs_relabun_1000_2, by = c("growth_stage", "treatment"))
+OTU_metadata <- left_join(meta, OTUs4, by = c("growth_stage", "treatment"))
 
 # rearrange columns
 
 # write a new csv with the cleaned and merge data and upload to the shared google drive
 write.csv(OTUs_relabun_1000_2, file.path("/Users/moriahyoung/Desktop/PLB 847/PLB 847 Group Project/OTU_relaabun_final.csv"), row.names = F)
 
+# select for OTUs with greater than 1000 relative abundance
+OTUs_1000 <- OTUs4[-which(OTUs4$relabun < 1000),]
 ```
 
 ```{r}
