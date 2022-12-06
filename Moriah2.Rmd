@@ -21,6 +21,8 @@ library(stringr)
 library(plotrix) #std.error
 library(phyloseq) 
 library(tibble)
+library(plyr)
+library(decontam) # isContamination
 #library(microViz)
 
 # Three tables are needed for the phyloseq object
@@ -46,6 +48,16 @@ tax_mat <- tax_mat %>%
 # remove the _1 that comes after every taxa name
 tax_mat[] <- lapply(tax_mat, function(x) sub("_1", "", x, fixed = TRUE))
 
+## ignore!
+# not sure if we want to do this BUT 
+## define function - this will make all the empty cells in the taxa data frame now "unknown"
+# or do we make these NAs which is done later on in the script?
+#empty_as_unknown <- function(x){
+#    if("factor" %in% class(x)) x <- as.character(x) ## since ifelse wont work with factors
+#    ifelse(as.character(x)!="", x, "Unknown")
+#}
+#tax_mat <- tax_mat %>% mutate_each(list(empty_as_unknown)) # call the function
+
 colnames(samples_df)[colnames(samples_df) == "X.SampleID"] <- "SampleID" # get rid of that X. that shows up
 samples_df <- samples_df %>% 
         tibble::column_to_rownames("SampleID") 
@@ -67,9 +79,9 @@ sample_names(physeq_object_roots)
 rank_names(physeq_object_roots)
 sample_variables(physeq_object_roots)
 
-physeq_object_roots <- subset_samples(physeq_object_roots, Sample_or_Control =="True Sample")
-sort(unique(as.data.frame(sample_data(physeq_object_roots))$Sample_or_Control)) # get rid of non true samples
-sample_names(physeq_object_roots) # success
+#physeq_object_roots <- subset_samples(physeq_object_roots, Sample_or_Control == "True Sample")
+#sort(unique(as.data.frame(sample_data(physeq_object_roots))$Sample_or_Control)) # get rid of non true samples
+#sample_names(physeq_object_roots) # success
 
 tax_table(physeq_object_roots)[tax_table(physeq_object_roots)==""]<- NA
 
@@ -85,44 +97,148 @@ physeq_object_roots <- subset_taxa(physeq_object_roots, Kingdom!="Rhizaria")
 physeq_object_roots <- subset_taxa(physeq_object_roots, Kingdom!="Viridiplantae")
 sort(unique(as.data.frame(tax_table(physeq_object_roots))$Kingdom)) # now we're good
 
+sort(unique(as.data.frame(tax_table(physeq_object_roots))$Genus))
 ```
 
+#remove contaminants
 ```{r}
-samplesover1000_all <- subset_samples(physeq_object_roots, sample_sums(physeq_object_roots) > 1000)
+# code below is all taken from Reid's script
+df_roots <- as.data.frame(sample_data(physeq_object_roots)) # Put sample_data into a ggplot-friendly data.frame
+df_roots$LibrarySize_roots <- sample_sums(physeq_object_roots)
+df_roots <- df_roots[order(df_roots$LibrarySize_roots),]
+df_roots$Index <- seq(nrow(df_roots))
+ggplot(data=df_roots, aes(x=Index, y=LibrarySize_roots, color=Sample_or_Control)) + geom_point()
 
-#any(taxa_sums(samplesover1000_all) == 0)
+# filter by prevelance 
+sample_data(physeq_object_roots)$is.neg <- sample_data(physeq_object_roots)$Sample_or_Control == "Control Sample"
+contamdf.prev_roots <- isContaminant(physeq_object_roots, method="prevalence", neg="is.neg")
+table(contamdf.prev_roots$contaminant)
 
-set.seed(81)
+# Make phyloseq object of presence-absence in negative controls and true samples
+ps.pa_roots <- transform_sample_counts(physeq_object_roots, function(abund) 1*(abund>0))
+ps.pa.neg_roots <- prune_samples(sample_data(ps.pa_roots)$Sample_or_Control == "Control Sample", ps.pa_roots)
+ps.pa.pos_roots <- prune_samples(sample_data(ps.pa_roots)$Sample_or_Control == "True Sample", ps.pa_roots)
+# Make data.frame of prevalence in positive and negative samples
+df.pa_roots <- data.frame(pa.pos_roots=taxa_sums(ps.pa.pos_roots), pa.neg_roots=taxa_sums(ps.pa.neg_roots),
+                          contaminant=contamdf.prev_roots$contaminant)
+ggplot(data=df.pa_roots, aes(x=pa.neg_roots, y=pa.pos_roots, color=contaminant)) + geom_point() +
+  xlab("Prevalence (Negative Controls)") + ylab("Prevalence (True Samples)")
+
+# remove contaminants
+ps.noncontam_roots <- prune_taxa(!contamdf.prev_roots$contaminant, physeq_object_roots)
+# with contaminants removed
+otu_table(ps.noncontam_roots)
+
+# Following removal of contaminants identified by the decontam package, removing any samples which had 
+# less than 1000 reads to avoid biasing beta diversity analyses
+# removing samples with less than 1000 reads, including samples that had less than 1000 read following sampling
+# using csv files to check
+
+# export roots otu table to check samples
+
+# remove negative controls
+ps.noncontam_roots <- subset_samples(ps.noncontam_roots)
+otu_table(ps.noncontam_roots) <- otu_table(ps.noncontam_roots)[which(rowSums(otu_table(ps.noncontam_roots)) >= 1),]
+ps.noncontam_roots
+
+# This is getting rid of samples that are less than 1000 reads (I think this is what Reid's code was trying to do but there was no note about this line of code)
+otu_table(ps.noncontam_roots) <- subset(otu_table(ps.noncontam_roots),
+                                        select = -c(R6T4r6Aroot, NC1root))
+
+ps.noncontam_roots <- subset_samples(ps.noncontam_roots, sample_sums(ps.noncontam_roots) > 1000)
+
+ps.noncontam_roots
+```
+# this chunk of code is the closest I got to what we want. I need to figure out how to get an "Other" category.
+# http://joey711.github.io/phyloseq-demo/Restroom-Biogeography
+# https://github.com/joey711/phyloseq/issues/901 - this might help
+
+```{r}
+set.seed(2018)
 
 # rarefy samples
-rarefy_samplesover1000_all <- rarefy_even_depth(samplesover1000_all, rngseed= 81, sample.size = min(sample_sums(samplesover1000_all)))
+rarefy <- rarefy_even_depth(ps.noncontam_roots, rngseed= 2018, sample.size = min(sample_sums(ps.noncontam_roots)))
 
-roots <- rarefy_samplesover1000_all
-```
+roots <- rarefy
 
-# this chunk of code is the closest I got to what we want. I need to figure out how to get an "Other" category.
-# https://github.com/joey711/phyloseq/issues/901 - this might help
-```{r}
 # Genus Level
 # this works
-# I got this code from someone online so I'm not 100% sure what all the lines of code do
-top30 <- names(sort(taxa_sums(roots), decreasing=TRUE)[1:25])
+# I got this code from someone online
+top30 <- names(sort(taxa_sums(roots), decreasing=TRUE)[1:30])
 top30 #shows 30 results
 
 dat.aglo = tax_glom(roots, taxrank = "Genus")
-dat.trans = transform_sample_counts(dat.aglo, function(x) x/sum(x)) #calculating abundances
+dat.trans = transform_sample_counts(dat.aglo, function(x) x/sum(x)) #calculating relative abundances
 
-prune.dat.two = prune_taxa(top30, dat.trans)
-dat.dataframe = psmelt(prune.dat.two)
+prune.dat.two = prune_taxa(top30, dat.trans) # prune_tax() is a function for removing (pruning) unwanted OTUs/taxa from phylogenetic objects
+dat.dataframe = psmelt(prune.dat.two) # psmelt() is a specialized melt function for melting phyloseq objects (instances of the phyloseq class), usually for producing graphics with ggplot2
+dat.dataframe$Genus <- as.character(dat.dataframe$Genus)
+str(dat.dataframe) # looks good
 dat.agr = aggregate(Abundance~bar_label+Genus+Management+Description, data=dat.dataframe, FUN=mean) # calculating the mean abundances by management type and growth stage (which is bar_label column from the "root_fun_map_soybean_2021_1.txt" file)
 
+dat.agr$Genus[dat.agr$Abundance < 0.04] <- "< 4% abundance"
+
+# make it so that the growth stages are shown in order
+dat.agr$Description <- factor(dat.agr$Description,levels = c("V2", "R3", "R6"))
+
+png("fungal_genus_stacked_barplot.png", units="in", width=12, height=10, res=300)
 ggplot(dat.agr, 
        aes(x=Description, y=Abundance, fill=Genus)) + 
         geom_bar(stat="identity",  position="fill") + 
-        facet_grid(~Management, scale="free") # this groups the bars by management type
+        labs(y = "Relative Abundance (Genus > 4%)", x = "Growth Stage and Management Type") +
+        facet_grid(~Management, scale="free") +#this groups the bars by management type
+        scale_fill_manual(values = c("Alternaria" = "#508578",
+                                     "Cladosporium" = "green",
+                                     "Clonostachys" = "#CD9BCD",
+                                     "Corynespora" = "steelblue",
+                                     "Dictyochaeta" = "pink",
+                                     "Didymella" = "orange",
+                                     "Fusarium" = "#673770",
+                                     "Macrophomina" = "peachpuff3",
+                                     "Mortierella" = "gold",
+                                     "Paraphoma" = "cyan1",
+                                     "Paraphoma" = "darksalmon",
+                                     "Setophoma" = "darkorchid1",
+                                     "< 4% abundance" = "Blue"))
+dev.off()
+```
+
+# Ordination
+```{r}
+root_ord <- prune_taxa(names(sort(taxa_sums(roots), TRUE)[1:50]), roots)
+# ordination
+root_bray_pcoa <- ordinate(
+        physeq = root_ord, 
+        method = "NMDS", 
+        distance = "bray"
+        )
+# plot ordination
+plot_ordination(root_ord, root_bray_pcoa, "samples", color="bar_label")
+
+png("NMDS_ordination.png", units="in", width=8, height=6, res=300)
+plot_ordination(
+  physeq = root_ord,                                                         #phyloseq object
+  ordination = root_bray_pcoa) +                                                #ordination
+  geom_point(aes(fill = Management, shape = Description), size = 3) +     #sets fill color to sampletype
+  scale_shape_manual(values = c(21, 22, 23))+
+  #scale_fill_manual(values = sample_colors) +
+  theme_classic() +                                                      #changes theme, removes grey background
+  theme(                             
+    legend.text = element_text(size = 20),                               #changes legend size
+    legend.title = element_blank(),                                      #removes legend title
+    legend.background = element_rect(fill = "white", color = "black"))+
+  theme(axis.text.y.left = element_text(size = 20),
+        axis.text.x = element_text(size = 20),
+        axis.title.x = element_text(size = 20),
+        axis.title.y = element_text(size = 20))+
+  guides(fill = guide_legend(override.aes = list(shape = 21)))  
+dev.off()
 
 ```
 
+
+
+# old code below
 ```{r}
 # this didn't do what I wanted it to do - another attempt from code I found online
 top20otus = names(sort(taxa_sums(roots), TRUE)[1:20])
