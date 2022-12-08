@@ -23,6 +23,8 @@ library(phyloseq)
 library(tibble)
 library(plyr)
 library(decontam) # isContamination
+library(vegan)
+library(knitr)
 #library(microViz)
 
 # Three tables are needed for the phyloseq object
@@ -63,6 +65,9 @@ samples_df <- samples_df %>%
         tibble::column_to_rownames("SampleID") 
 #samples_df2 <- samples_df[-c("NC1root", "PC1root","NC1root"),]
 
+# make it so that the growth stages are shown in order
+samples_df$Description <- factor(samples_df$Description,levels = c("V2", "R3", "R6"))
+
 # turn data frames into matrices
 otu_mat <- as.matrix(otu_mat)
 tax_mat <- as.matrix(tax_mat)
@@ -100,7 +105,7 @@ sort(unique(as.data.frame(tax_table(physeq_object_roots))$Kingdom)) # now we're 
 sort(unique(as.data.frame(tax_table(physeq_object_roots))$Genus))
 ```
 
-#remove contaminants
+#Remove contaminants
 ```{r}
 # code below is all taken from Reid's script
 df_roots <- as.data.frame(sample_data(physeq_object_roots)) # Put sample_data into a ggplot-friendly data.frame
@@ -153,6 +158,7 @@ ps.noncontam_roots
 # http://joey711.github.io/phyloseq-demo/Restroom-Biogeography
 # https://github.com/joey711/phyloseq/issues/901 - this might help
 
+# Rarifying data, top genera, & plotting
 ```{r}
 set.seed(2018)
 
@@ -203,7 +209,8 @@ ggplot(dat.agr,
 dev.off()
 ```
 
-# Ordination
+
+# Ordination using Phyloseq package
 ```{r}
 root_ord <- prune_taxa(names(sort(taxa_sums(roots), TRUE)[1:50]), roots)
 # ordination
@@ -219,8 +226,9 @@ png("NMDS_ordination.png", units="in", width=8, height=6, res=300)
 plot_ordination(
   physeq = root_ord,                                                         #phyloseq object
   ordination = root_bray_pcoa) +                                                #ordination
-  geom_point(aes(fill = Management, shape = Description), size = 3) +     #sets fill color to sampletype
-  scale_shape_manual(values = c(21, 22, 23))+
+  geom_point(aes(fill = Management, shape = Description), size = 3) + #sets fill color to sampletype
+        stat_ellipse(aes(fill = factor(Management)), geom = "polygon", alpha = .5) +
+  scale_shape_manual(values = c(21, 22, 25)) +
   #scale_fill_manual(values = sample_colors) +
   theme_classic() +                                                      #changes theme, removes grey background
   theme(                             
@@ -234,6 +242,160 @@ plot_ordination(
   guides(fill = guide_legend(override.aes = list(shape = 21)))  
 dev.off()
 
+```
+
+# Permanova
+```{r}
+#unconstrained ordination
+set.seed(1)
+
+# Calculate bray curtis distance matrix
+roots_bray <- phyloseq::distance(roots, method = "bray")
+
+# make a data frame from the sample_data
+sample_df <- data.frame(sample_data(roots))
+
+# Adonis test
+adonis2(roots_bray ~ Description, data = sample_df)
+
+# Homogeneity of dispersion test
+beta_barlabel <- betadisper(roots_bray, sample_df$Description)
+permutest(beta_barlabel)
+
+# Adonis test
+adonis2(roots_bray ~ Management, data = sample_df)
+
+# Homogeneity of dispersion test
+beta_management <- betadisper(roots_bray, sample_df$Management)
+permutest(beta_management)
+```
+
+#constrained ordination - this didn't work for me
+https://deneflab.github.io/MicrobeMiseq/demos/mothur_2_phyloseq.html#constrained_ordinations
+```{r}
+# Remove data points with missing metadata
+#roots_not_na <- roots %>%
+#  subset_samples(
+#    !is.na(Phycocyanin) & 
+#      !is.na(SRP) &
+#      !is.na(pH) & 
+#      !is.na(ParMC) & 
+#      !is.na(H2O2)
+#  )
+  
+bray_not_na <- phyloseq::distance(physeq = roots, method = "bray")
+
+# this doesn't work for me
+# CAP ordinate
+cap_ord <- ordinate(
+    physeq = roots, 
+    method = "CAP",
+    distance = bray_not_na
+    #formula = ~ Management + origin
+)
+
+# CAP plot
+cap_plot <- plot_ordination(
+  physeq = roots, 
+  ordination = cap_ord, 
+    color = "Management", 
+    axes = c(1,2)
+) + 
+    aes(shape = origin) + 
+    geom_point(aes(colour = Management), alpha = 0.4, size = 4) + 
+    geom_point(colour = "grey90", size = 1.5) + 
+    scale_color_manual(values = c("#a65628", "red", "#ffae19", "#4daf4a", 
+        "#1919ff", "darkorchid3", "magenta")
+    )
+
+
+# Now add the environmental variables as arrows
+arrowmat <- vegan::scores(cap_ord, display = "bp")
+
+# Add labels, make a data.frame
+arrowdf <- data.frame(labels = rownames(arrowmat), arrowmat)
+
+# Define the arrow aesthetic mapping
+arrow_map <- aes(xend = CAP1, 
+    yend = CAP2, 
+    x = 0, 
+    y = 0, 
+    shape = NULL, 
+    color = NULL, 
+    label = labels)
+
+label_map <- aes(x = 1.3 * CAP1, 
+    y = 1.3 * CAP2, 
+    shape = NULL, 
+    color = NULL, 
+    label = labels)
+
+arrowhead = arrow(length = unit(0.02, "npc"))
+
+# Make a new graphic
+cap_plot + 
+  geom_segment(
+    mapping = arrow_map, 
+    size = .5, 
+    data = arrowdf, 
+    color = "gray", 
+    arrow = arrowhead
+  ) + 
+  geom_text(
+    mapping = label_map, 
+    size = 4,  
+    data = arrowdf, 
+    show.legend = FALSE
+  )
+
+```
+
+# Diversity Metrics
+```{r}
+# trying to reorder the x axis
+#level_order <- c("Conventional V2", "Conventional R3", "Conventional R6", "No-Till V2", "No-Till R3", #"No-Till R6", "Organic V2", "Organic R3", "Organic R6") 
+
+p = plot_richness(roots, 
+                  x="bar_label", 
+                  measures=c("Observed", "Shannon"), 
+                  nrow=2, 
+                  sortby = "Observed")
+
+neworder <- c("Conventional V2", "Conventional R3", "Conventional R6", "No-Till V2", "No-Till R3", "No-Till R6", "Organic V2", "Organic R3", "Organic R6") 
+
+p$data$bar_label <- as.character(p$data$bar_label)
+p$data$bar_label <- factor(p$data$bar_label, levels=neworder)
+print(p)
+pdat <- psmelt(p)
+
+# Alpha diversity
+png("alpha_diversity.png", units="in", width=8, height=6, res=300)
+plot_richness(roots, x="bar_label", measures=c("Observed", "Shannon")) + 
+        geom_boxplot(aes(fill = Management, shape = Description)) + #sets fill color to sampletype
+  scale_shape_manual(values = c(21, 22, 23)) +
+  #scale_fill_manual(values = sample_colors) +
+  theme_classic() +                                   #changes theme, removes grey background
+  theme(                             
+    legend.text = element_text(size = 15),                               #changes legend size
+    legend.title = element_blank(),                                      #removes legend title
+    legend.background = element_rect(fill = "white", color = "black")) + 
+  theme(axis.text.y.left = element_text(size = 15),
+        axis.text.x = element_text(size = 10, angle = 90),
+        axis.title.x = element_text(size = 10)) +
+        guides(fill = guide_legend(override.aes = list(shape = 21))) +
+        xlab("Mangement and Growth Habit")
+dev.off()
+
+rich = estimate_richness(roots)
+rich
+
+pairwise.wilcox.test(rich$Observed, sample_data(roots)$bar_label)
+
+# Beta diversity
+# PCoA plot using the unweighted UniFrac as distance
+wunifrac_dist = phyloseq::distance(roots, method="unifrac", weighted=F)
+ordination = ordinate(roots, method="PCoA", distance=wunifrac_dist)
+plot_ordination(roots, ordination, color="Mangement") + theme(aspect.ratio=1)
 ```
 
 
